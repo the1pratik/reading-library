@@ -1,0 +1,846 @@
+[
+ {
+  "s": "Founder essays",
+  "t": "Do Things that Don't Scale",
+  "a": "Paul Graham",
+  "u": "https://paulgraham.com/ds.html",
+  "m": 25,
+  "g": [
+   "startups",
+   "growth"
+  ],
+  "k": [
+   "Early growth is manual: recruit users one by one.",
+   "Delight a small group fanatically before chasing scale.",
+   "Founders should do the unscalable work (Airbnb photographing listings).",
+   "Manual work teaches you what to automate later."
+  ],
+  "q": "What unscalable thing could you do this week for your first 100 Thriving Studios viewers?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "How to Start a Startup",
+  "a": "Paul Graham",
+  "u": "https://paulgraham.com/start.html",
+  "m": 35,
+  "g": [
+   "startups"
+  ],
+  "k": [
+   "You need good people, something customers want, and little money.",
+   "Start lean; spending forces bad habits.",
+   "Make something you yourself want."
+  ],
+  "q": "Which of your current projects would you build even if nobody paid you?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "Maker's Schedule, Manager's Schedule",
+  "a": "Paul Graham",
+  "u": "https://paulgraham.com/makersschedule.html",
+  "m": 8,
+  "g": [
+   "productivity",
+   "leadership"
+  ],
+  "k": [
+   "Makers need half-day blocks; one meeting can wreck an afternoon.",
+   "Managers work in hourly slots.",
+   "Batch meetings so creators keep deep time."
+  ],
+  "q": "How is your week split between maker and manager time, and is that right for this stage?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "Startup = Growth",
+  "a": "Paul Graham",
+  "u": "https://paulgraham.com/growth.html",
+  "m": 30,
+  "g": [
+   "startups",
+   "growth"
+  ],
+  "k": [
+   "A startup is a company designed to grow fast.",
+   "Pick a weekly growth metric and steer by it.",
+   "5-7% weekly growth is good at YC."
+  ],
+  "q": "What single weekly metric would honestly tell you if the studio is working?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "Founder Mode",
+  "a": "Paul Graham",
+  "u": "https://paulgraham.com/foundermode.html",
+  "m": 10,
+  "g": [
+   "leadership"
+  ],
+  "k": [
+   "Conventional 'hire good people and let them work' advice fails founders.",
+   "Founders should stay close to details, skip-level.",
+   "Delegation isn't abdication."
+  ],
+  "q": "Where are you over-delegating, and where are you micromanaging?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "Write Simply",
+  "a": "Paul Graham",
+  "u": "https://paulgraham.com/simply.html",
+  "m": 5,
+  "g": [
+   "writing"
+  ],
+  "k": [
+   "Simple writing is more readable and more honest.",
+   "Fancy words hide weak ideas.",
+   "Writing simply forces clear thinking."
+  ],
+  "q": "Take your last LinkedIn/X post: what would it say with half the words?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "Putting Ideas into Words",
+  "a": "Paul Graham",
+  "u": "https://paulgraham.com/words.html",
+  "m": 6,
+  "g": [
+   "writing",
+   "thinking"
+  ],
+  "k": [
+   "Writing about something reveals you understood less than you thought.",
+   "Ideas improve when written.",
+   "The draft is a thinking tool."
+  ],
+  "q": "What belief about microdramas have you never written down? Try a paragraph."
+ },
+ {
+  "s": "Founder essays",
+  "t": "How to Be Successful",
+  "a": "Sam Altman",
+  "u": "https://blog.samaltman.com/how-to-be-successful",
+  "m": 20,
+  "g": [
+   "career",
+   "ambition"
+  ],
+  "k": [
+   "Compound yourself; aim for exponential curves.",
+   "Have almost too much self-belief.",
+   "Learn to think independently; get good at sales.",
+   "Be bold, be willful, be hard to compete with."
+  ],
+  "q": "Which of the 13 points is your weakest, and why?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "The Days Are Long but the Decades Are Short",
+  "a": "Sam Altman",
+  "u": "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short",
+  "m": 10,
+  "g": [
+   "life",
+   "career"
+  ],
+  "k": [
+   "Optimize for meaning; it compounds.",
+   "Most people underestimate how much they can do in a decade.",
+   "Relationships and health are the base."
+  ],
+  "q": "If 2036-you looked back, what would he wish you'd started now?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "The Struggle",
+  "a": "Ben Horowitz",
+  "u": "https://a16z.com/the-struggle/",
+  "m": 8,
+  "g": [
+   "leadership",
+   "hard things"
+  ],
+  "k": [
+   "Every founder hits 'the Struggle', where nothing makes sense.",
+   "It is not failure, but it causes failure if you quit.",
+   "Don't carry it all alone; there's no formula."
+  ],
+  "q": "What does your Struggle look like right now, and who are you sharing it with?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "We Don't Sell Saddles Here",
+  "a": "Stewart Butterfield",
+  "u": "https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d",
+  "m": 20,
+  "g": [
+   "product",
+   "strategy",
+   "storytelling"
+  ],
+  "k": [
+   "Sell the outcome (horseback riding), not the feature (saddles).",
+   "Every interaction is part of the product.",
+   "Be the best at reducing team pain.",
+   "Over-communicate the why."
+  ],
+  "q": "What is the 'horseback riding' you sell to viewers and brands, not the 'saddle'?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "How to Get Rich (without getting lucky)",
+  "a": "Naval Ravikant",
+  "u": "https://nav.al/rich",
+  "m": 20,
+  "g": [
+   "wealth",
+   "leverage"
+  ],
+  "k": [
+   "Seek wealth, not money or status.",
+   "Specific knowledge + leverage (code, media) + accountability.",
+   "Media is permissionless leverage.",
+   "Play long-term games with long-term people."
+  ],
+  "q": "What is your specific knowledge that AI video tools can't copy?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "Advice for Ambitious 19 Year Olds",
+  "a": "Patrick Collison",
+  "u": "https://patrickcollison.com/advice",
+  "m": 10,
+  "g": [
+   "career",
+   "ambition"
+  ],
+  "k": [
+   "Be around smart, ambitious people.",
+   "Read a lot, especially old books.",
+   "Build things; small projects compound."
+  ],
+  "q": "Which advice would you give your 19-year-old self?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "Fast",
+  "a": "Patrick Collison",
+  "u": "https://patrickcollison.com/fast",
+  "m": 10,
+  "g": [
+   "speed",
+   "history"
+  ],
+  "k": [
+   "Big projects were often built astonishingly fast (Empire State in 410 days).",
+   "Speed is a cultural choice.",
+   "Slowness is not a law of nature."
+  ],
+  "q": "What's one studio process you could do 5x faster?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "1,000 True Fans",
+  "a": "Kevin Kelly",
+  "u": "https://kk.org/thetechnium/1000-true-fans/",
+  "m": 15,
+  "g": [
+   "creators",
+   "business"
+  ],
+  "k": [
+   "A creator needs ~1,000 true fans paying ~$100/yr.",
+   "Direct relationship with fans matters.",
+   "The long tail rewards niche depth."
+  ],
+  "q": "Who are your true fans, and could you name 50 of them?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "68 Bits of Unsolicited Advice",
+  "a": "Kevin Kelly",
+  "u": "https://kk.org/thetechnium/68-bits-of-unsolicited-advice/",
+  "m": 12,
+  "g": [
+   "life",
+   "wisdom"
+  ],
+  "k": [
+   "Learn to say no; be the person who shows up.",
+   "Pros are amateurs who know how to recover.",
+   "Don't be the best, be the only."
+  ],
+  "q": "Pick three bits that cut hardest. Why those?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "Why Software Is Eating the World",
+  "a": "Marc Andreessen",
+  "u": "https://a16z.com/why-software-is-eating-the-world/",
+  "m": 15,
+  "g": [
+   "tech",
+   "strategy"
+  ],
+  "k": [
+   "Software companies are taking over traditional industries.",
+   "Infrastructure (cloud, broadband) made it possible.",
+   "Every company becomes a software company."
+  ],
+  "q": "Is AI eating film production? What survives?"
+ },
+ {
+  "s": "Founder essays",
+  "t": "It's Time to Build",
+  "a": "Marc Andreessen",
+  "u": "https://a16z.com/its-time-to-build/",
+  "m": 10,
+  "g": [
+   "ambition",
+   "tech"
+  ],
+  "k": [
+   "Failures of the pandemic were failures of building.",
+   "Desire and will, not capability, are lacking.",
+   "Build housing, manufacturing, education."
+  ],
+  "q": "What does India's creative industry fail to build that you could?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "Aggregation Theory",
+  "a": "Ben Thompson (Stratechery)",
+  "u": "https://stratechery.com/2015/aggregation-theory/",
+  "m": 20,
+  "g": [
+   "strategy",
+   "platforms"
+  ],
+  "k": [
+   "Internet made distribution free; power moves to who owns users.",
+   "Aggregators commoditize suppliers.",
+   "User experience is the moat."
+  ],
+  "q": "In microdramas, who is the aggregator, and where does your studio sit?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "The Bitter Lesson",
+  "a": "Rich Sutton",
+  "u": "https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf",
+  "m": 6,
+  "g": [
+   "AI"
+  ],
+  "k": [
+   "General methods that scale with compute win.",
+   "Human-knowledge hacks give short-term gains.",
+   "Search and learning scale."
+  ],
+  "q": "Which handcrafted parts of your video pipeline will compute make obsolete?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "Software 2.0",
+  "a": "Andrej Karpathy",
+  "u": "https://karpathy.medium.com/software-2-0-a64152b37c35",
+  "m": 12,
+  "g": [
+   "AI",
+   "engineering"
+  ],
+  "k": [
+   "Neural nets are a new kind of software written by data.",
+   "Programmers curate datasets instead of logic.",
+   "Strengths: homogeneous, portable, agile."
+  ],
+  "q": "Is your 'code' now prompts, data, and taste? What does that change?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "A Recipe for Training Neural Networks",
+  "a": "Andrej Karpathy",
+  "u": "https://karpathy.github.io/2019/04/25/recipe/",
+  "m": 25,
+  "g": [
+   "AI",
+   "engineering"
+  ],
+  "k": [
+   "Neural net training fails silently.",
+   "Become one with the data first.",
+   "Go step by step; overfit then regularize."
+  ],
+  "q": "How could 'become one with the data' apply to your audience analytics?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "Inventing on Principle",
+  "a": "Bret Victor",
+  "u": "https://worrydream.com/InventingOnPrinciple/",
+  "m": 55,
+  "g": [
+   "design",
+   "creativity"
+  ],
+  "k": [
+   "Creators need immediate connection to what they create.",
+   "Live a life guided by a principle.",
+   "Tools shape thought."
+  ],
+  "q": "What principle guides your work? Write it in one sentence."
+ },
+ {
+  "s": "Tech essays",
+  "t": "Normalization of Deviance",
+  "a": "Dan Luu",
+  "u": "https://danluu.com/wat/",
+  "m": 15,
+  "g": [
+   "culture",
+   "ops"
+  ],
+  "k": [
+   "Organizations slowly accept broken practices as normal.",
+   "Newcomers notice what veterans don't.",
+   "Listen to people who say 'wat'."
+  ],
+  "q": "What weird practice at your studio has become 'normal'?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "95%-ile Isn't That Good",
+  "a": "Dan Luu",
+  "u": "https://danluu.com/p95-skill/",
+  "m": 15,
+  "g": [
+   "learning",
+   "skill"
+  ],
+  "k": [
+   "Getting to 95th percentile mostly takes deliberate practice.",
+   "Most people don't practice at all.",
+   "Feedback loops matter."
+  ],
+  "q": "Which skill would 3 months of deliberate practice transform for you?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "The Scaling Hypothesis",
+  "a": "Gwern",
+  "u": "https://gwern.net/scaling-hypothesis",
+  "m": 60,
+  "g": [
+   "AI"
+  ],
+  "k": [
+   "GPT-3 suggested scale alone brings intelligence.",
+   "Blessings of scale: bigger models learn more efficiently.",
+   "Implications are large and under-priced."
+  ],
+  "q": "If video models keep scaling, what is your studio's edge in 3 years?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "The Tail End",
+  "a": "Tim Urban (Wait But Why)",
+  "u": "https://waitbutwhy.com/2015/12/the-tail-end.html",
+  "m": 8,
+  "g": [
+   "life",
+   "perspective"
+  ],
+  "k": [
+   "Visualize life in weeks/events.",
+   "Most time with parents is already spent.",
+   "Prioritize people."
+  ],
+  "q": "Who should you spend more time with?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "The Cook and the Chef: Musk's Secret Sauce",
+  "a": "Tim Urban (Wait But Why)",
+  "u": "https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html",
+  "m": 60,
+  "g": [
+   "thinking"
+  ],
+  "k": [
+   "Chefs reason from first principles; cooks follow recipes.",
+   "Most of us are cooks by default.",
+   "Question inherited assumptions."
+  ],
+  "q": "Where in microdrama making are you a cook?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "The Age of the Essay",
+  "a": "Paul Graham",
+  "u": "https://paulgraham.com/essay.html",
+  "m": 15,
+  "g": [
+   "writing",
+   "storytelling"
+  ],
+  "k": [
+   "An essay is an attempt, a way to figure things out.",
+   "Follow surprises.",
+   "Write about what you find interesting."
+  ],
+  "q": "What surprised you in your last month of work?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "Meditations on Moloch",
+  "a": "Scott Alexander",
+  "u": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
+  "m": 50,
+  "g": [
+   "systems"
+  ],
+  "k": [
+   "Competition can drive everyone to sacrifice values.",
+   "Multipolar traps are everywhere.",
+   "Coordination is the antidote."
+  ],
+  "q": "Is the attention economy forcing your content toward things you don't value?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "How to Write Usefully",
+  "a": "Paul Graham",
+  "u": "https://paulgraham.com/useful.html",
+  "m": 15,
+  "g": [
+   "writing"
+  ],
+  "k": [
+   "Useful writing is correct, important, strong.",
+   "Say things as forcefully as you can while still true.",
+   "Novelty matters."
+  ],
+  "q": "Draft a strong, true claim about AI films and defend it."
+ },
+ {
+  "s": "Tech essays",
+  "t": "Lead Bullets",
+  "a": "Ben Horowitz",
+  "u": "https://a16z.com/lead-bullets/",
+  "m": 8,
+  "g": [
+   "hard things",
+   "strategy"
+  ],
+  "k": [
+   "There's no silver bullet; use lots of lead bullets.",
+   "Face the competitor head on: fix the product.",
+   "Hard truths beat clever positioning."
+  ],
+  "q": "What's your 'lead bullet' problem you've avoided?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "The Creator Economy Needs a Middle Class",
+  "a": "Li Jin",
+  "u": "https://hbr.org/2020/12/the-creator-economy-needs-a-middle-class",
+  "m": 10,
+  "g": [
+   "creators",
+   "business"
+  ],
+  "k": [
+   "Creator income follows a power law.",
+   "Platforms should build a creator middle class.",
+   "Ownership models for creators."
+  ],
+  "q": "How would you design pay for creators working with your studio?"
+ },
+ {
+  "s": "Tech essays",
+  "t": "The Passion Economy and the Future of Work",
+  "a": "Li Jin",
+  "u": "https://a16z.com/the-passion-economy-and-the-future-of-work/",
+  "m": 15,
+  "g": [
+   "creators"
+  ],
+  "k": [
+   "New platforms let individuals monetize uniqueness.",
+   "Tools for creators to build businesses.",
+   "Shift from gig to passion."
+  ],
+  "q": "What platform would help Indian AI creators most?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Acquired: Nvidia (Part III)",
+  "a": "Ben Gilbert & David Rosenthal",
+  "u": "https://www.acquired.fm/episodes/nvidia-the-dawn-of-the-ai-era",
+  "m": 180,
+  "g": [
+   "AI",
+   "strategy"
+  ],
+  "k": [
+   "Nvidia bet on CUDA for a decade before it paid off.",
+   "Platform + ecosystem lock-in beats raw chips.",
+   "Jensen's long-term conviction under ridicule."
+  ],
+  "q": "What decade-long bet are you willing to be ridiculed for?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Acquired: Costco",
+  "a": "Ben Gilbert & David Rosenthal",
+  "u": "https://www.acquired.fm/episodes/costco",
+  "m": 180,
+  "g": [
+   "business",
+   "strategy"
+  ],
+  "k": [
+   "Membership model aligns company with customer.",
+   "Radical low markups (max ~14-15%) build trust.",
+   "Simplicity: few SKUs, huge volume."
+  ],
+  "q": "What 'membership' could your audience pay for because they trust you?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Acquired: Hermès",
+  "a": "Ben Gilbert & David Rosenthal",
+  "u": "https://www.acquired.fm/episodes/hermes",
+  "m": 180,
+  "g": [
+   "brand",
+   "storytelling"
+  ],
+  "k": [
+   "Scarcity and craft create desire.",
+   "Family control enables patience.",
+   "Brand is a story told consistently for generations."
+  ],
+  "q": "What would a 'Hermès' approach to AI video look like?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Lenny's Podcast: Brian Chesky's new playbook",
+  "a": "Lenny Rachitsky",
+  "u": "https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach",
+  "m": 90,
+  "g": [
+   "leadership",
+   "product"
+  ],
+  "k": [
+   "Founders should be in the details.",
+   "Fewer projects, CEO reviews everything.",
+   "Product marketing over performance marketing."
+  ],
+  "q": "Where would being in the details matter most for you?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Founders by David Senra (the show)",
+  "a": "David Senra",
+  "u": "https://www.founderspodcast.com/",
+  "m": 60,
+  "g": [
+   "founders",
+   "history"
+  ],
+  "k": [
+   "Biographies are compressed experience.",
+   "Great founders are obsessive about product and taste.",
+   "Steal ideas from history."
+  ],
+  "q": "Which founder biography should you read after Horowitz?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Lex Fridman: Andrej Karpathy",
+  "a": "Lex Fridman",
+  "u": "https://lexfridman.com/andrej-karpathy/",
+  "m": 210,
+  "g": [
+   "AI"
+  ],
+  "k": [
+   "Transformers as general-purpose differentiable computers.",
+   "Data engines matter more than models.",
+   "Self-driving lessons apply to all AI products."
+  ],
+  "q": "What's the 'data engine' inside Thriving Studios?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Dwarkesh Podcast: Andrej Karpathy — AGI is still a decade away",
+  "a": "Dwarkesh Patel",
+  "u": "https://www.dwarkesh.com/p/andrej-karpathy",
+  "m": 150,
+  "g": [
+   "AI"
+  ],
+  "k": [
+   "Agents still lack continual learning.",
+   "RL is noisy ('sucking supervision through a straw').",
+   "Education is his focus now."
+  ],
+  "q": "Do you agree AGI is a decade away? What does that mean for your roadmap?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Tim Ferriss: Jerry Seinfeld on writing and creativity",
+  "a": "Tim Ferriss",
+  "u": "https://tim.blog/2020/12/09/jerry-seinfeld/",
+  "m": 100,
+  "g": [
+   "writing",
+   "creativity",
+   "storytelling"
+  ],
+  "k": [
+   "Write every day; don't break the chain.",
+   "Separate creating from editing.",
+   "Comedy is craft, not inspiration."
+  ],
+  "q": "What's your daily writing chain, and how long can you keep it?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Acquired: Meta",
+  "a": "Ben Gilbert & David Rosenthal",
+  "u": "https://www.acquired.fm/episodes/meta",
+  "m": 240,
+  "g": [
+   "platforms",
+   "strategy"
+  ],
+  "k": [
+   "Facebook won by owning real identity and the social graph.",
+   "Ruthless 'copy and acquire' (Instagram, WhatsApp) protected the core.",
+   "Founder control lets you make unpopular bets."
+  ],
+  "q": "Would you sell your studio early, like Instagram did, or keep control?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Acquired: TSMC",
+  "a": "Ben Gilbert & David Rosenthal",
+  "u": "https://www.acquired.fm/episodes/tsmc",
+  "m": 180,
+  "g": [
+   "business",
+   "AI"
+  ],
+  "k": [
+   "Morris Chang invented the pure-play foundry model.",
+   "Being neutral infrastructure is a moat.",
+   "Trust plus scale compounds for decades."
+  ],
+  "q": "Could Thriving Studios be the 'foundry' for other creators?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Acquired: Microsoft Volume I",
+  "a": "Ben Gilbert & David Rosenthal",
+  "u": "https://www.acquired.fm/episodes/microsoft",
+  "m": 180,
+  "g": [
+   "founders",
+   "strategy"
+  ],
+  "k": [
+   "Gates licensed, not sold, DOS: own the standard.",
+   "Early deals shape decades.",
+   "Developers are the ecosystem."
+  ],
+  "q": "What's the 'license, don't sell' move in content IP?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Acquired: Rolex",
+  "a": "Ben Gilbert & David Rosenthal",
+  "u": "https://www.acquired.fm/episodes/rolex",
+  "m": 180,
+  "g": [
+   "brand",
+   "storytelling"
+  ],
+  "k": [
+   "Rolex built status through marketing stories (Everest, the Channel swim).",
+   "Owned by a foundation: no quarterly pressure.",
+   "Consistency of brand over a century."
+  ],
+  "q": "What story would make your studio's brand feel inevitable?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Lex Fridman: Jensen Huang",
+  "a": "Lex Fridman",
+  "u": "https://lexfridman.com/jensen-huang/",
+  "m": 180,
+  "g": [
+   "AI",
+   "leadership"
+  ],
+  "k": [
+   "Jensen reasons from first principles about where computing goes.",
+   "Flat org; he has many direct reports.",
+   "Suffering builds character in founders."
+  ],
+  "q": "How much suffering are you willing to accept for this company?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Dwarkesh: Patrick Collison - Craft, Beauty & the Future of Payments",
+  "a": "Dwarkesh Patel",
+  "u": "https://www.dwarkesh.com/p/patrick-collison",
+  "m": 120,
+  "g": [
+   "founders",
+   "craft"
+  ],
+  "k": [
+   "Craft and beauty matter even in infrastructure.",
+   "Stripe obsesses over details users never see.",
+   "Read widely across history."
+  ],
+  "q": "Where in your videos do you sweat details nobody sees?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Dwarkesh: Dario Amodei - Scaling, Alignment & AI Progress",
+  "a": "Dwarkesh Patel",
+  "u": "https://www.dwarkesh.com/p/dario-amodei",
+  "m": 120,
+  "g": [
+   "AI"
+  ],
+  "k": [
+   "Scaling has kept working, surprisingly smoothly.",
+   "Safety and capability are intertwined.",
+   "Timelines may be short."
+  ],
+  "q": "If capable AI arrives soon, what is uniquely human in your stories?"
+ },
+ {
+  "s": "Podcast notes",
+  "t": "Lenny's Podcast: Inside ChatGPT with Nick Turley",
+  "a": "Lenny Rachitsky",
+  "u": "https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley",
+  "m": 90,
+  "g": [
+   "AI",
+   "product"
+  ],
+  "k": [
+   "Ship fast and learn from real usage.",
+   "Many AI capabilities are only found after launch.",
+   "Simple interfaces hide complex models."
+  ],
+  "q": "What would you learn by shipping a rough episode this week?"
+ }
+]

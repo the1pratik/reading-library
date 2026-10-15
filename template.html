@@ -74,6 +74,30 @@ footer{margin-top:96px;color:var(--mut);font-size:12px}
 @media (max-width:560px){.wrap{padding:36px 20px 80px}.intro{margin:56px 0 32px}.hero{margin:0 -20px;padding-left:20px;padding-right:20px;gap:18px}.sb.on input{width:130px}.lib{margin-top:80px}
  .book.open .cover{opacity:0;transition:transform .7s cubic-bezier(.65,0,.35,1) .12s,opacity .2s .6s}}
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important;transition-delay:0s!important}}
+
+.orig{font-size:13px;color:#8a8070;margin-left:12px;text-decoration:none}
+#rd{position:fixed;inset:0;z-index:200;background:#f4efe4;overflow-y:auto;opacity:0;transform:translateY(16px);transition:opacity .45s,transform .45s;color:#2b2620}
+#rd.on{opacity:1;transform:none}
+#rd .bar{position:fixed;top:0;left:0;height:3px;background:#8c5a3c;width:0;z-index:3;transition:width .1s}
+#rd .tb{position:sticky;top:0;display:flex;justify-content:space-between;align-items:center;padding:14px 22px;background:rgba(244,239,228,.92);backdrop-filter:blur(6px);font:13px/1 system-ui,sans-serif;color:#7a705f;z-index:2}
+#rd .tb button,#rd .tb a{background:none;border:1px solid #d8cfbd;border-radius:999px;padding:7px 14px;color:#5a5044;cursor:pointer;text-decoration:none;font:inherit}
+#rd article{max-width:36em;margin:0 auto;padding:0 24px 18vh;font:20px/1.68 "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif}
+#rd .title{min-height:72vh;display:flex;flex-direction:column;justify-content:center;text-align:center;border-bottom:1px solid #ddd3c1;margin-bottom:3em}
+#rd .title .ch{letter-spacing:.3em;text-transform:uppercase;font-size:12px;color:#9a8c74;font-family:system-ui,sans-serif}
+#rd .title h1{font-size:clamp(32px,5vw,50px);line-height:1.15;font-weight:400;margin:.5em 0}
+#rd .title .au{font-style:italic;color:#6d6252}
+#rd .title .orn{margin-top:2em;color:#b39f80;font-size:22px}
+#rd article img{max-width:100%;height:auto;border-radius:3px}
+#rd article h2,#rd article h3{font-weight:500;margin-top:2em}
+#rd article a{color:#8c5a3c}
+#rd article blockquote{border-left:2px solid #c9b896;margin-left:0;padding-left:1em;color:#5d5346;font-style:italic}
+#rd article pre{white-space:pre-wrap;font-size:14px;background:#ece5d6;padding:12px}
+#rd .body>p:first-of-type::first-letter{float:left;font-size:3.4em;line-height:.9;padding:.08em .1em 0 0;color:#8c5a3c}
+#rd .ld{text-align:center;font-style:italic;color:#8a7d68;padding:3em 0}
+#rd .ld i{display:block;width:40px;height:1px;background:#b39f80;margin:1em auto;animation:pl 1.4s ease-in-out infinite}
+@keyframes pl{50%{width:120px}}
+#rd .note{font:14px/1.5 system-ui,sans-serif;background:#ebe3d2;padding:12px 16px;border-radius:6px;color:#6b5f4c;margin:2em 0}
+#rd .end{text-align:center;margin-top:4em;color:#9a8c74}
 </style></head><body>
 <div class="wrap">
 <header><div class="brand">Pratik's Reading<span class="nn" id="nn"></span></div>
@@ -134,7 +158,7 @@ function openBook(s){
  ov.innerHTML=`<div class="book" style="width:${W}px;height:${H}px;left:${L}px;top:${T}px">
  <div class="pg"><div class="content"><div class="eyebrow">${esc(d.cat)} · ${d.minutes} min</div><h2>${esc(d.title)}</h2><div class="by">${esc(d.author)}</div>
  <h4>Key ideas</h4><ol>${d.ideas.map(k=>`<li>${esc(k)}</li>`).join('')}</ol><h4>Reflect</h4><div class="q">${esc(d.q)}</div>
- <h4>Your take</h4><textarea placeholder="Write a few lines…">${esc(note)}</textarea><br><a class="read" href="${esc(d.url)}" target="_blank" rel="noopener">Read →</a></div></div>
+ <h4>Your take</h4><textarea placeholder="Write a few lines…">${esc(note)}</textarea><br><a class="read" href="${esc(d.url)}" data-reader="${d.id}">Read →</a> <a class="orig" href="${esc(d.url)}" target="_blank" rel="noopener">Original ↗</a></div></div>
  <div class="cover"><div class="face front cv${l?' light':''}" style="background:${c}"><div class="t">${esc(d.title)}</div><div><div class="rule"></div><div class="a">${esc(auth(d.author))}</div></div></div>
  <div class="face back"><div class="stamp"><b>Ex Libris</b><small>Pratik</small></div></div></div></div>
  <button class="x" aria-label="Close">✕</button>`;
@@ -148,4 +172,34 @@ function openBook(s){
  ov.onclick=e=>{if(e.target===ov||e.target.closest('.x'))close()};cur={close};
 }
 addEventListener('keydown',e=>{if(e.key==='Escape'&&cur)cur.close()});
+const LIBS={marked:'https://cdn.jsdelivr.net/npm/marked@12/marked.min.js',pur:'https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js',rd:'https://cdn.jsdelivr.net/npm/@mozilla/readability@0.5.0/Readability.js'};
+const _ld={};function lib(u){return _ld[u]||(_ld[u]=new Promise((ok,no)=>{const x=document.createElement('script');x.src=u;x.onload=ok;x.onerror=no;document.head.appendChild(x)}))}
+function tmo(p,ms){return Promise.race([p,new Promise((_,n)=>setTimeout(()=>n(new Error('timeout')),ms))])}
+async function viaJina(u){const r=await tmo(fetch('https://r.jina.ai/'+u,{headers:{'X-Return-Format':'markdown'}}),25000);if(!r.ok)throw 0;let t=await r.text();
+ const i=t.indexOf('Markdown Content:');if(i>=0)t=t.slice(i+17);if(t.length<200||/AuthenticationRequired|Target URL returned error/.test(t))throw 0;await lib(LIBS.marked);return marked.parse(t)}
+async function viaHtml(prox,u,raw){const r=await tmo(fetch(prox+(raw?u:encodeURIComponent(u))),25000);if(!r.ok)throw 0;const h=await r.text();await lib(LIBS.rd);
+ const doc=new DOMParser().parseFromString(h,'text/html');const b=doc.createElement('base');b.href=u;doc.head.appendChild(b);const a=new Readability(doc).parse();if(!a||a.textContent.trim().length<200)throw 0;return a.content}
+async function fetchArticle(u){const ways=[()=>viaJina(u),()=>viaHtml('https://api.allorigins.win/raw?url=',u),()=>viaHtml('https://cors.eu.org/',u,1),()=>viaHtml('https://api.codetabs.com/v1/proxy/?quest=',u)];
+ for(const w of ways){try{return await w()}catch(e){}}throw new Error('fail')}
+let rdr=null;
+function openReader(d){
+ const el=document.createElement('div');el.id='rd';
+ el.innerHTML=`<div class="bar"></div><div class="tb"><button class="bk">← Back</button><span>${esc(d.cat)} · ${d.minutes} min</span><a href="${esc(d.url)}" target="_blank" rel="noopener">Original ↗</a></div>
+ <article><div class="title"><div class="ch">${esc(d.cat)}</div><h1>${esc(d.title)}</h1><div class="au">${esc(d.author)}</div><div class="orn">❦</div></div>
+ <div class="body"><div class="ld"><i></i>Bringing it in…</div></div></article>`;
+ document.body.appendChild(el);document.body.style.overflow='hidden';requestAnimationFrame(()=>el.classList.add('on'));
+ const bar=el.querySelector('.bar');el.onscroll=()=>{bar.style.width=(100*el.scrollTop/Math.max(1,el.scrollHeight-el.clientHeight))+'%'};
+ const close=()=>{el.classList.remove('on');setTimeout(()=>{el.remove();if(!cur)document.body.style.overflow=''},RM?0:450);rdr=null};
+ el.querySelector('.bk').onclick=close;rdr={close};
+ const body=el.querySelector('.body');
+ fetchArticle(d.url).then(async html=>{await lib(LIBS.pur).catch(()=>{});
+   const clean=window.DOMPurify?DOMPurify.sanitize(html,{FORBID_TAGS:['style','form','iframe','script']}):'';if(!clean)throw 0;
+   const tmp=document.createElement('div');tmp.innerHTML=clean;tmp.querySelectorAll('a').forEach(a=>{a.target='_blank';a.rel='noopener'});
+   const words=tmp.textContent.trim().split(/\s+/).length;
+   body.innerHTML=(words<450?`<div class="note">Preview only — this looks like part of the piece (maybe paywalled). <a href="${esc(d.url)}" target="_blank" rel="noopener">Read the full thing ↗</a></div>`:'')+tmp.innerHTML+`<div class="end">❦<br><br><a href="${esc(d.url)}" target="_blank" rel="noopener">Open the original ↗</a></div>`;
+ }).catch(()=>{body.innerHTML=`<div class="note">Couldn't bring this one in — it may be paywalled or block readers. <a href="${esc(d.url)}" target="_blank" rel="noopener">Open it on the original site ↗</a></div>`});
+}
+document.addEventListener('click',e=>{const a=e.target.closest('[data-reader]');if(!a)return;e.preventDefault();e.stopPropagation();openReader(byId[a.dataset.reader])},true);
+addEventListener('keydown',e=>{if(e.key==='Escape'&&rdr){e.stopImmediatePropagation();rdr.close()}},true);
+
 </script></body></html>

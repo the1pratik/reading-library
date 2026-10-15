@@ -1,6 +1,7 @@
 [
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "Do Things that Don't Scale",
   "author": "Paul Graham",
   "url": "https://paulgraham.com/ds.html",
@@ -17,10 +18,12 @@
   ],
   "q": "What unscalable thing could you do this week for your first 100 Thriving Studios viewers?",
   "added": "2026-10-12",
-  "id": "21e008d7"
+  "id": "21e008d7",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "How to Start a Startup",
   "author": "Paul Graham",
   "url": "https://paulgraham.com/start.html",
@@ -35,10 +38,12 @@
   ],
   "q": "Which of your current projects would you build even if nobody paid you?",
   "added": "2026-10-12",
-  "id": "fdbcc449"
+  "id": "fdbcc449",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "Maker's Schedule, Manager's Schedule",
   "author": "Paul Graham",
   "url": "https://paulgraham.com/makersschedule.html",
@@ -54,10 +59,12 @@
   ],
   "q": "How is your week split between maker and manager time, and is that right for this stage?",
   "added": "2026-10-12",
-  "id": "839cdaf8"
+  "id": "839cdaf8",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "Startup = Growth",
   "author": "Paul Graham",
   "url": "https://paulgraham.com/growth.html",
@@ -73,10 +80,12 @@
   ],
   "q": "What single weekly metric would honestly tell you if the studio is working?",
   "added": "2026-10-12",
-  "id": "72880f5c"
+  "id": "72880f5c",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "Founder Mode",
   "author": "Paul Graham",
   "url": "https://paulgraham.com/foundermode.html",
@@ -91,10 +100,12 @@
   ],
   "q": "Where are you over-delegating, and where are you micromanaging?",
   "added": "2026-10-12",
-  "id": "e9825505"
+  "id": "e9825505",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "Write Simply",
   "author": "Paul Graham",
   "url": "https://paulgraham.com/simply.html",
@@ -109,10 +120,12 @@
   ],
   "q": "Take your last LinkedIn/X post: what would it say with half the words?",
   "added": "2026-10-12",
-  "id": "2c07253b"
+  "id": "2c07253b",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "Putting Ideas into Words",
   "author": "Paul Graham",
   "url": "https://paulgraham.com/words.html",
@@ -128,10 +141,12 @@
   ],
   "q": "What belief about microdramas have you never written down? Try a paragraph.",
   "added": "2026-10-12",
-  "id": "6d9c3df0"
+  "id": "6d9c3df0",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "How to Be Successful",
   "author": "Sam Altman",
   "url": "https://blog.samaltman.com/how-to-be-successful",
@@ -148,10 +163,12 @@
   ],
   "q": "Which of the 13 points is your weakest, and why?",
   "added": "2026-10-12",
-  "id": "9867e477"
+  "id": "9867e477",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "The Days Are Long but the Decades Are Short",
   "author": "Sam Altman",
   "url": "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short",
@@ -167,10 +184,12 @@
   ],
   "q": "If 2036-you looked back, what would he wish you'd started now?",
   "added": "2026-10-12",
-  "id": "005810a1"
+  "id": "005810a1",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "The Struggle",
   "author": "Ben Horowitz",
   "url": "https://a16z.com/the-struggle/",
@@ -186,10 +205,12 @@
   ],
   "q": "What does your Struggle look like right now, and who are you sharing it with?",
   "added": "2026-10-12",
-  "id": "b27376f3"
+  "id": "b27376f3",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "We Don't Sell Saddles Here",
   "author": "Stewart Butterfield",
   "url": "https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d",
@@ -207,10 +228,12 @@
   ],
   "q": "What is the 'horseback riding' you sell to viewers and brands, not the 'saddle'?",
   "added": "2026-10-12",
-  "id": "25ff166d"
+  "id": "25ff166d",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "How to Get Rich (without getting lucky)",
   "author": "Naval Ravikant",
   "url": "https://nav.al/rich",
@@ -227,10 +250,12 @@
   ],
   "q": "What is your specific knowledge that AI video tools can't copy?",
   "added": "2026-10-12",
-  "id": "44ece22c"
+  "id": "44ece22c",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "Advice for Ambitious 19 Year Olds",
   "author": "Patrick Collison",
   "url": "https://patrickcollison.com/advice",
@@ -246,10 +271,12 @@
   ],
   "q": "Which advice would you give your 19-year-old self?",
   "added": "2026-10-12",
-  "id": "e3ee5222"
+  "id": "e3ee5222",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "Fast",
   "author": "Patrick Collison",
   "url": "https://patrickcollison.com/fast",
@@ -265,10 +292,12 @@
   ],
   "q": "What's one studio process you could do 5x faster?",
   "added": "2026-10-12",
-  "id": "6d11d31b"
+  "id": "6d11d31b",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "1,000 True Fans",
   "author": "Kevin Kelly",
   "url": "https://kk.org/thetechnium/1000-true-fans/",
@@ -284,10 +313,12 @@
   ],
   "q": "Who are your true fans, and could you name 50 of them?",
   "added": "2026-10-12",
-  "id": "a78c28ef"
+  "id": "a78c28ef",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "68 Bits of Unsolicited Advice",
   "author": "Kevin Kelly",
   "url": "https://kk.org/thetechnium/68-bits-of-unsolicited-advice/",
@@ -303,10 +334,12 @@
   ],
   "q": "Pick three bits that cut hardest. Why those?",
   "added": "2026-10-12",
-  "id": "9f44d4e1"
+  "id": "9f44d4e1",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "Why Software Is Eating the World",
   "author": "Marc Andreessen",
   "url": "https://a16z.com/why-software-is-eating-the-world/",
@@ -322,10 +355,12 @@
   ],
   "q": "Is AI eating film production? What survives?",
   "added": "2026-10-12",
-  "id": "b08ace62"
+  "id": "b08ace62",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Founders",
   "title": "It's Time to Build",
   "author": "Marc Andreessen",
   "url": "https://a16z.com/its-time-to-build/",
@@ -341,10 +376,12 @@
   ],
   "q": "What does India's creative industry fail to build that you could?",
   "added": "2026-10-12",
-  "id": "fcaded76"
+  "id": "fcaded76",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "Aggregation Theory",
   "author": "Ben Thompson (Stratechery)",
   "url": "https://stratechery.com/2015/aggregation-theory/",
@@ -360,10 +397,12 @@
   ],
   "q": "In microdramas, who is the aggregator, and where does your studio sit?",
   "added": "2026-10-12",
-  "id": "20e87e5f"
+  "id": "20e87e5f",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "The Bitter Lesson",
   "author": "Rich Sutton",
   "url": "https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf",
@@ -378,10 +417,12 @@
   ],
   "q": "Which handcrafted parts of your video pipeline will compute make obsolete?",
   "added": "2026-10-12",
-  "id": "796c0203"
+  "id": "796c0203",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "Software 2.0",
   "author": "Andrej Karpathy",
   "url": "https://karpathy.medium.com/software-2-0-a64152b37c35",
@@ -397,10 +438,12 @@
   ],
   "q": "Is your 'code' now prompts, data, and taste? What does that change?",
   "added": "2026-10-12",
-  "id": "02723e0e"
+  "id": "02723e0e",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "A Recipe for Training Neural Networks",
   "author": "Andrej Karpathy",
   "url": "https://karpathy.github.io/2019/04/25/recipe/",
@@ -416,10 +459,12 @@
   ],
   "q": "How could 'become one with the data' apply to your audience analytics?",
   "added": "2026-10-12",
-  "id": "acbab86a"
+  "id": "acbab86a",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "Inventing on Principle",
   "author": "Bret Victor",
   "url": "https://worrydream.com/InventingOnPrinciple/",
@@ -435,10 +480,12 @@
   ],
   "q": "What principle guides your work? Write it in one sentence.",
   "added": "2026-10-12",
-  "id": "62dc0248"
+  "id": "62dc0248",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "Normalization of Deviance",
   "author": "Dan Luu",
   "url": "https://danluu.com/wat/",
@@ -454,10 +501,12 @@
   ],
   "q": "What weird practice at your studio has become 'normal'?",
   "added": "2026-10-12",
-  "id": "81291f57"
+  "id": "81291f57",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "95%-ile Isn't That Good",
   "author": "Dan Luu",
   "url": "https://danluu.com/p95-skill/",
@@ -473,10 +522,12 @@
   ],
   "q": "Which skill would 3 months of deliberate practice transform for you?",
   "added": "2026-10-12",
-  "id": "b6230336"
+  "id": "b6230336",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "The Scaling Hypothesis",
   "author": "Gwern",
   "url": "https://gwern.net/scaling-hypothesis",
@@ -491,10 +542,12 @@
   ],
   "q": "If video models keep scaling, what is your studio's edge in 3 years?",
   "added": "2026-10-12",
-  "id": "0ce79214"
+  "id": "0ce79214",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "The Tail End",
   "author": "Tim Urban (Wait But Why)",
   "url": "https://waitbutwhy.com/2015/12/the-tail-end.html",
@@ -510,10 +563,12 @@
   ],
   "q": "Who should you spend more time with?",
   "added": "2026-10-12",
-  "id": "a5042427"
+  "id": "a5042427",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "The Cook and the Chef: Musk's Secret Sauce",
   "author": "Tim Urban (Wait But Why)",
   "url": "https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html",
@@ -528,10 +583,12 @@
   ],
   "q": "Where in microdrama making are you a cook?",
   "added": "2026-10-12",
-  "id": "95013b24"
+  "id": "95013b24",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "The Age of the Essay",
   "author": "Paul Graham",
   "url": "https://paulgraham.com/essay.html",
@@ -547,10 +604,12 @@
   ],
   "q": "What surprised you in your last month of work?",
   "added": "2026-10-12",
-  "id": "07b9bade"
+  "id": "07b9bade",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "Meditations on Moloch",
   "author": "Scott Alexander",
   "url": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
@@ -565,10 +624,12 @@
   ],
   "q": "Is the attention economy forcing your content toward things you don't value?",
   "added": "2026-10-12",
-  "id": "7ccb6cec"
+  "id": "7ccb6cec",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "How to Write Usefully",
   "author": "Paul Graham",
   "url": "https://paulgraham.com/useful.html",
@@ -583,10 +644,12 @@
   ],
   "q": "Draft a strong, true claim about AI films and defend it.",
   "added": "2026-10-12",
-  "id": "dbf6b596"
+  "id": "dbf6b596",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "Lead Bullets",
   "author": "Ben Horowitz",
   "url": "https://a16z.com/lead-bullets/",
@@ -602,10 +665,12 @@
   ],
   "q": "What's your 'lead bullet' problem you've avoided?",
   "added": "2026-10-12",
-  "id": "b2842da9"
+  "id": "b2842da9",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "The Creator Economy Needs a Middle Class",
   "author": "Li Jin",
   "url": "https://hbr.org/2020/12/the-creator-economy-needs-a-middle-class",
@@ -621,10 +686,12 @@
   ],
   "q": "How would you design pay for creators working with your studio?",
   "added": "2026-10-12",
-  "id": "ba8b9f7d"
+  "id": "ba8b9f7d",
+  "hero": false
  },
  {
   "source": "Essay",
+  "cat": "Tech",
   "title": "The Passion Economy and the Future of Work",
   "author": "Li Jin",
   "url": "https://a16z.com/the-passion-economy-and-the-future-of-work/",
@@ -639,10 +706,12 @@
   ],
   "q": "What platform would help Indian AI creators most?",
   "added": "2026-10-12",
-  "id": "85693327"
+  "id": "85693327",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Acquired: Nvidia (Part III)",
   "author": "Ben Gilbert & David Rosenthal",
   "url": "https://www.acquired.fm/episodes/nvidia-the-dawn-of-the-ai-era",
@@ -658,10 +727,12 @@
   ],
   "q": "What decade-long bet are you willing to be ridiculed for?",
   "added": "2026-10-12",
-  "id": "092e61c8"
+  "id": "092e61c8",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Acquired: Costco",
   "author": "Ben Gilbert & David Rosenthal",
   "url": "https://www.acquired.fm/episodes/costco",
@@ -677,10 +748,12 @@
   ],
   "q": "What 'membership' could your audience pay for because they trust you?",
   "added": "2026-10-12",
-  "id": "8d4ebec7"
+  "id": "8d4ebec7",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Acquired: Herm\u00e8s",
   "author": "Ben Gilbert & David Rosenthal",
   "url": "https://www.acquired.fm/episodes/hermes",
@@ -696,10 +769,12 @@
   ],
   "q": "What would a 'Herm\u00e8s' approach to AI video look like?",
   "added": "2026-10-12",
-  "id": "86e0b196"
+  "id": "86e0b196",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Lenny's Podcast: Brian Chesky's new playbook",
   "author": "Lenny Rachitsky",
   "url": "https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach",
@@ -715,10 +790,12 @@
   ],
   "q": "Where would being in the details matter most for you?",
   "added": "2026-10-12",
-  "id": "9609c99d"
+  "id": "9609c99d",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Founders by David Senra (the show)",
   "author": "David Senra",
   "url": "https://www.founderspodcast.com/",
@@ -734,10 +811,12 @@
   ],
   "q": "Which founder biography should you read after Horowitz?",
   "added": "2026-10-12",
-  "id": "a111183c"
+  "id": "a111183c",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Lex Fridman: Andrej Karpathy",
   "author": "Lex Fridman",
   "url": "https://lexfridman.com/andrej-karpathy/",
@@ -752,10 +831,12 @@
   ],
   "q": "What's the 'data engine' inside Thriving Studios?",
   "added": "2026-10-12",
-  "id": "8c4cd0ef"
+  "id": "8c4cd0ef",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Dwarkesh Podcast: Andrej Karpathy \u2014 AGI is still a decade away",
   "author": "Dwarkesh Patel",
   "url": "https://www.dwarkesh.com/p/andrej-karpathy",
@@ -770,10 +851,12 @@
   ],
   "q": "Do you agree AGI is a decade away? What does that mean for your roadmap?",
   "added": "2026-10-12",
-  "id": "fe371cb3"
+  "id": "fe371cb3",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Tim Ferriss: Jerry Seinfeld on writing and creativity",
   "author": "Tim Ferriss",
   "url": "https://tim.blog/2020/12/09/jerry-seinfeld/",
@@ -790,10 +873,12 @@
   ],
   "q": "What's your daily writing chain, and how long can you keep it?",
   "added": "2026-10-12",
-  "id": "16899e9c"
+  "id": "16899e9c",
+  "hero": true
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Acquired: Meta",
   "author": "Ben Gilbert & David Rosenthal",
   "url": "https://www.acquired.fm/episodes/meta",
@@ -809,10 +894,12 @@
   ],
   "q": "Would you sell your studio early, like Instagram did, or keep control?",
   "added": "2026-10-12",
-  "id": "f907df15"
+  "id": "f907df15",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Acquired: TSMC",
   "author": "Ben Gilbert & David Rosenthal",
   "url": "https://www.acquired.fm/episodes/tsmc",
@@ -828,10 +915,12 @@
   ],
   "q": "Could Thriving Studios be the 'foundry' for other creators?",
   "added": "2026-10-12",
-  "id": "4944a2ed"
+  "id": "4944a2ed",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Acquired: Microsoft Volume I",
   "author": "Ben Gilbert & David Rosenthal",
   "url": "https://www.acquired.fm/episodes/microsoft",
@@ -847,10 +936,12 @@
   ],
   "q": "What's the 'license, don't sell' move in content IP?",
   "added": "2026-10-12",
-  "id": "d15b462f"
+  "id": "d15b462f",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Acquired: Rolex",
   "author": "Ben Gilbert & David Rosenthal",
   "url": "https://www.acquired.fm/episodes/rolex",
@@ -866,10 +957,12 @@
   ],
   "q": "What story would make your studio's brand feel inevitable?",
   "added": "2026-10-12",
-  "id": "0b28bf8c"
+  "id": "0b28bf8c",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Lex Fridman: Jensen Huang",
   "author": "Lex Fridman",
   "url": "https://lexfridman.com/jensen-huang/",
@@ -885,10 +978,12 @@
   ],
   "q": "How much suffering are you willing to accept for this company?",
   "added": "2026-10-12",
-  "id": "95e09474"
+  "id": "95e09474",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Dwarkesh: Patrick Collison - Craft, Beauty & the Future of Payments",
   "author": "Dwarkesh Patel",
   "url": "https://www.dwarkesh.com/p/patrick-collison",
@@ -904,10 +999,12 @@
   ],
   "q": "Where in your videos do you sweat details nobody sees?",
   "added": "2026-10-12",
-  "id": "c8deec06"
+  "id": "c8deec06",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Dwarkesh: Dario Amodei - Scaling, Alignment & AI Progress",
   "author": "Dwarkesh Patel",
   "url": "https://www.dwarkesh.com/p/dario-amodei",
@@ -922,10 +1019,12 @@
   ],
   "q": "If capable AI arrives soon, what is uniquely human in your stories?",
   "added": "2026-10-12",
-  "id": "5b3dd9ba"
+  "id": "5b3dd9ba",
+  "hero": false
  },
  {
   "source": "Podcast",
+  "cat": "Podcasts",
   "title": "Lenny's Podcast: Inside ChatGPT with Nick Turley",
   "author": "Lenny Rachitsky",
   "url": "https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley",
@@ -941,7 +1040,8 @@
   ],
   "q": "What would you learn by shipping a rough episode this week?",
   "added": "2026-10-12",
-  "id": "02ecda92"
+  "id": "02ecda92",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -960,7 +1060,9 @@
   ],
   "q": "What would make Thriving Studios harder to copy every month it runs?",
   "added": "2026-10-14",
-  "id": "f02d3da8"
+  "id": "f02d3da8",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -979,7 +1081,9 @@
   ],
   "q": "If AI model prices collapse or spike, how does your production cost change?",
   "added": "2026-10-14",
-  "id": "c92a2493"
+  "id": "c92a2493",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -998,7 +1102,9 @@
   ],
   "q": "What contrarian claim about AI drama would you bet your studio on?",
   "added": "2026-10-14",
-  "id": "c9852033"
+  "id": "c9852033",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1018,7 +1124,9 @@
   ],
   "q": "What would a 'five invites' mechanic look like for a microdrama launch?",
   "added": "2026-10-14",
-  "id": "279535f7"
+  "id": "279535f7",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1037,7 +1145,9 @@
   ],
   "q": "Which 'old' storytelling technique could power your new AI format?",
   "added": "2026-10-14",
-  "id": "93e6ffa4"
+  "id": "93e6ffa4",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1055,7 +1165,9 @@
   ],
   "q": "Which parts of your production pipeline are AI's 'spikes', and which still need humans?",
   "added": "2026-10-14",
-  "id": "5e8f8ec0"
+  "id": "5e8f8ec0",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1074,7 +1186,9 @@
   ],
   "q": "What does your studio know that never gets written down?",
   "added": "2026-10-14",
-  "id": "f6604901"
+  "id": "f6604901",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1093,7 +1207,9 @@
   ],
   "q": "Which big-platform AI launch this week changes your plan?",
   "added": "2026-10-14",
-  "id": "2145fb0d"
+  "id": "2145fb0d",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1112,7 +1228,9 @@
   ],
   "q": "Is there a microdrama hiding in this injustice?",
   "added": "2026-10-14",
-  "id": "2ea7c407"
+  "id": "2ea7c407",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1131,7 +1249,9 @@
   ],
   "q": "What scrappy compromise is fine for your first season?",
   "added": "2026-10-14",
-  "id": "10af6956"
+  "id": "10af6956",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1150,7 +1270,9 @@
   ],
   "q": "Which genre rule of microdramas would you break on purpose?",
   "added": "2026-10-14",
-  "id": "b8c290b5"
+  "id": "b8c290b5",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1169,7 +1291,9 @@
   ],
   "q": "What myth is your studio's storytelling built on?",
   "added": "2026-10-14",
-  "id": "57b47168"
+  "id": "57b47168",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1188,7 +1312,9 @@
   ],
   "q": "What human skill will you double down on as AI takes over production?",
   "added": "2026-10-14",
-  "id": "4e13dc73"
+  "id": "4e13dc73",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1207,7 +1333,9 @@
   ],
   "q": "Which of Greene's habits could you add to your scriptwriting?",
   "added": "2026-10-14",
-  "id": "22b7af9c"
+  "id": "22b7af9c",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1226,7 +1354,9 @@
   ],
   "q": "What comfortable lie could drive your next character's arc?",
   "added": "2026-10-14",
-  "id": "1271279c"
+  "id": "1271279c",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1245,7 +1375,9 @@
   ],
   "q": "How would you pitch AI video to a health brand in revenue terms?",
   "added": "2026-10-14",
-  "id": "00ef7887"
+  "id": "00ef7887",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1264,7 +1396,9 @@
   ],
   "q": "Which inbound task at your studio could an agent take over?",
   "added": "2026-10-14",
-  "id": "8f7d505c"
+  "id": "8f7d505c",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1283,7 +1417,9 @@
   ],
   "q": "Which Claude workflow would save you 5 hours this week?",
   "added": "2026-10-14",
-  "id": "5e4f72b3"
+  "id": "5e4f72b3",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Pick",
@@ -1302,7 +1438,9 @@
   ],
   "q": "How do you design a microdrama episode that teaches the algorithm who it's for?",
   "added": "2026-10-14",
-  "id": "6c2c5ae9"
+  "id": "6c2c5ae9",
+  "cat": "Stories",
+  "hero": true
  },
  {
   "source": "Pick",
@@ -1321,7 +1459,9 @@
   ],
   "q": "What status do your viewers earn by watching or sharing your shows?",
   "added": "2026-10-14",
-  "id": "6e9a3b7c"
+  "id": "6e9a3b7c",
+  "cat": "Tech",
+  "hero": false
  },
  {
   "source": "Pick",
@@ -1340,7 +1480,9 @@
   ],
   "q": "Run your next episode through the story spine: does it hold?",
   "added": "2026-10-14",
-  "id": "83fae1fd"
+  "id": "83fae1fd",
+  "cat": "Stories",
+  "hero": true
  },
  {
   "source": "Pick",
@@ -1358,7 +1500,9 @@
   ],
   "q": "Which shape fits a 90-second microdrama episode best?",
   "added": "2026-10-14",
-  "id": "f82a572d"
+  "id": "f82a572d",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Pick",
@@ -1377,7 +1521,9 @@
   ],
   "q": "Where does your studio's originality come from if the model is a blurry JPEG?",
   "added": "2026-10-14",
-  "id": "d981dc88"
+  "id": "d981dc88",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Pick",
@@ -1396,7 +1542,9 @@
   ],
   "q": "If creation is nearly free, what's your studio's real moat?",
   "added": "2026-10-14",
-  "id": "bc20f2da"
+  "id": "bc20f2da",
+  "cat": "Tech",
+  "hero": false
  },
  {
   "source": "Pick",
@@ -1415,7 +1563,9 @@
   ],
   "q": "What part of Thriving Studios feels like play to you?",
   "added": "2026-10-14",
-  "id": "af8e968e"
+  "id": "af8e968e",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Pick",
@@ -1434,7 +1584,9 @@
   ],
   "q": "Which new distribution channel can you be early on for microdramas?",
   "added": "2026-10-14",
-  "id": "df9f0aa5"
+  "id": "df9f0aa5",
+  "cat": "Tech",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1453,7 +1605,9 @@
   ],
   "q": "If GPU cloud providers like CoreWeave wobble, how exposed is Thriving's render pipeline to one vendor's pricing or uptime?",
   "added": "2026-10-15",
-  "id": "b21df9d7"
+  "id": "b21df9d7",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1472,7 +1626,9 @@
   ],
   "q": "Character.AI sold AI-as-entertainment and still went bankrupt. What makes your microdramas a business people pay for, not just a cool demo?",
   "added": "2026-10-15",
-  "id": "36c0a29f"
+  "id": "36c0a29f",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1491,7 +1647,9 @@
   ],
   "q": "A secret injury, one confidant and a broom-handle fix: how would you cut this into five 90-second episodes, each ending on a cliffhanger?",
   "added": "2026-10-15",
-  "id": "6c34f86e"
+  "id": "6c34f86e",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1510,7 +1668,9 @@
   ],
   "q": "Where are the leaky handoffs in your script to storyboard to generation to edit to delivery chain, and could one agent own an episode from start to finish?",
   "added": "2026-10-15",
-  "id": "c664a7c9"
+  "id": "c664a7c9",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1529,7 +1689,9 @@
   ],
   "q": "If you fine-tune or LoRA a model on your house style, what accidental pattern might it learn instead, and how would you test for it?",
   "added": "2026-10-15",
-  "id": "3b3e390c"
+  "id": "3b3e390c",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1548,7 +1710,9 @@
   ],
   "q": "What 'what if' worries Indian viewers right now that could anchor your next series, and how much research are you doing before the first script?",
   "added": "2026-10-15",
-  "id": "938f20bf"
+  "id": "938f20bf",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1567,7 +1731,9 @@
   ],
   "q": "Microdramas lean on revenge and romance tropes. Could a regional Indian Gothic, with a decaying haveli and a cursed family, be a fresh genre for Thriving?",
   "added": "2026-10-15",
-  "id": "8db16669"
+  "id": "8db16669",
+  "cat": "Stories",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1586,7 +1752,9 @@
   ],
   "q": "What is your true cost per finished minute of AI video, counting re-generations, reviewers and failed runs, and is it falling month to month?",
   "added": "2026-10-15",
-  "id": "3bb2beec"
+  "id": "3bb2beec",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1604,7 +1772,9 @@
   ],
   "q": "When a model provider changes its rules or quietly changes a model, how much of your studio's trust and roadmap depends on what they tell you?",
   "added": "2026-10-15",
-  "id": "221ca9ac"
+  "id": "221ca9ac",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1623,7 +1793,9 @@
   ],
   "q": "Each snack had a one-line origin story. Could your studio's brand partnerships or in-show placements carry that kind of story?",
   "added": "2026-10-15",
-  "id": "b85359ad"
+  "id": "b85359ad",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1642,7 +1814,9 @@
   ],
   "q": "Your scripts, revision notes and generation logs show how AI drama gets made. Is that data an asset you should protect or price?",
   "added": "2026-10-15",
-  "id": "efc1dbc3"
+  "id": "efc1dbc3",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -1661,7 +1835,9 @@
   ],
   "q": "Where should your pipeline admit AI is failing and hand the shot to a human artist, and have you designed that handoff on purpose?",
   "added": "2026-10-15",
-  "id": "9fc8b177"
+  "id": "9fc8b177",
+  "cat": "Newsletters",
+  "hero": false
  },
  {
   "source": "Pick",
@@ -1681,7 +1857,9 @@
   ],
   "q": "Anima let TikTok comments greenlight its universe. What is Thriving's equivalent signal, and are you reading it before you commit budget to a series?",
   "added": "2026-10-15",
-  "id": "96ae6557"
+  "id": "96ae6557",
+  "cat": "Stories",
+  "hero": true
  },
  {
   "source": "Pick",
@@ -1701,7 +1879,9 @@
   ],
   "q": "How does your pipeline keep a series bible and plot threads consistent across 60 to 100 episodes without flattening the details that hook viewers?",
   "added": "2026-10-15",
-  "id": "701e5a1a"
+  "id": "701e5a1a",
+  "cat": "Stories",
+  "hero": true
  },
  {
   "source": "Instagram",
@@ -1720,7 +1900,9 @@
   ],
   "q": "What studio-machine hygiene or agent workflows would you hand to Claude this week?",
   "added": "2026-10-15",
-  "id": "56be5a2e"
+  "id": "56be5a2e",
+  "cat": "Tech",
+  "hero": false
  },
  {
   "source": "Instagram",
@@ -1739,7 +1921,9 @@
   ],
   "q": "How discoverable are Thriving Studios' site and episode pages today \u2014 would this checklist catch gaps?",
   "added": "2026-10-15",
-  "id": "685d0ff9"
+  "id": "685d0ff9",
+  "cat": "Tech",
+  "hero": false
  },
  {
   "source": "Instagram",
@@ -1758,7 +1942,9 @@
   ],
   "q": "Could you reverse-engineer a competitor microdrama format the same way \u2014 beat structure, pacing, hooks?",
   "added": "2026-10-15",
-  "id": "9f521827"
+  "id": "9f521827",
+  "cat": "Tech",
+  "hero": false
  },
  {
   "source": "Instagram",
@@ -1778,6 +1964,8 @@
   ],
   "q": "What is Thriving pointing AI tools at this week \u2014 and is that the highest-leverage target?",
   "added": "2026-10-15",
-  "id": "1e55a377"
+  "id": "1e55a377",
+  "cat": "Tech",
+  "hero": false
  }
 ]

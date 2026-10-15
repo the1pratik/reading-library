@@ -1702,5 +1702,82 @@
   "q": "How does your pipeline keep a series bible and plot threads consistent across 60 to 100 episodes without flattening the details that hook viewers?",
   "added": "2026-10-15",
   "id": "701e5a1a"
+ },
+ {
+  "source": "Instagram",
+  "title": "My Mac kept filling up with System Data \u2014 so I made Claude fix it",
+  "author": "Instagram (storieswithpratik save)",
+  "url": "https://www.instagram.com/p/Deb74_2T2uc/",
+  "minutes": 2,
+  "tags": [
+   "Claude",
+   "tools"
+  ],
+  "ideas": [
+   "Using Claude Cowork to clear macOS System Data bloat.",
+   "Agent workflows can own machine hygiene tasks that usually pile up.",
+   "Point Claude at the actual disk culprits instead of guessing."
+  ],
+  "q": "What studio-machine hygiene or agent workflows would you hand to Claude this week?",
+  "added": "2026-10-15",
+  "id": "56be5a2e"
+ },
+ {
+  "source": "Instagram",
+  "title": "Vibe-coded a site? Paste this SEO checklist into Claude before you publish",
+  "author": "Instagram (storieswithpratik save)",
+  "url": "https://www.instagram.com/p/DeZb5Wdht17/",
+  "minutes": 3,
+  "tags": [
+   "Claude",
+   "SEO"
+  ],
+  "ideas": [
+   "SSR and how Google and ChatGPT find sites.",
+   "A pre-publish SEO checklist you can paste into Claude.",
+   "Vibe-coded sites still need discoverability work before launch."
+  ],
+  "q": "How discoverable are Thriving Studios' site and episode pages today \u2014 would this checklist catch gaps?",
+  "added": "2026-10-15",
+  "id": "685d0ff9"
+ },
+ {
+  "source": "Instagram",
+  "title": "I reverse engineered my room light with AI (REA)",
+  "author": "Instagram (storieswithpratik save)",
+  "url": "https://www.instagram.com/p/Debj3F3uxYE/",
+  "minutes": 3,
+  "tags": [
+   "AI",
+   "build"
+  ],
+  "ideas": [
+   "Reverse-engineer-anything mindset applied to a physical room light.",
+   "GitHub REA has ~180k stars.",
+   "Using AI to understand physical systems, not just code."
+  ],
+  "q": "Could you reverse-engineer a competitor microdrama format the same way \u2014 beat structure, pacing, hooks?",
+  "added": "2026-10-15",
+  "id": "9f521827"
+ },
+ {
+  "source": "Instagram",
+  "title": "The tools are already here \u2014 what you point them at matters",
+  "author": "Instagram (storieswithpratik save)",
+  "url": "https://www.instagram.com/p/DeZ_g6bII_7/",
+  "minutes": 2,
+  "tags": [
+   "AI",
+   "Claude",
+   "craft"
+  ],
+  "ideas": [
+   "Tools are becoming commodity; direction and taste stay scarce.",
+   "Claude and Codex framing: capability is abundant, aim is not.",
+   "What you point the tools at matters more than which tool you pick."
+  ],
+  "q": "What is Thriving pointing AI tools at this week \u2014 and is that the highest-leverage target?",
+  "added": "2026-10-15",
+  "id": "1e55a377"
  }
 ]

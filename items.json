@@ -1440,7 +1440,7 @@
   "added": "2026-10-14",
   "id": "6c2c5ae9",
   "cat": "Stories",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Pick",
@@ -1482,7 +1482,7 @@
   "added": "2026-10-14",
   "id": "83fae1fd",
   "cat": "Stories",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Pick",
@@ -1965,6 +1965,163 @@
   "q": "What is Thriving pointing AI tools at this week \u2014 and is that the highest-leverage target?",
   "added": "2026-10-15",
   "id": "1e55a377",
+  "cat": "Tech",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Before I Love Lucy, CBS Didn't Think America Would Accept Lucy's Real Husband",
+  "author": "History Truth",
+  "url": "https://historytruth.substack.com/p/before-i-love-lucy-cbs-didnt-think",
+  "minutes": 6,
+  "tags": [
+   "history",
+   "story",
+   "entertainment"
+  ],
+  "ideas": [
+   "Lucille Ball made CBS cast her real husband Desi Arnaz by proving the act on the road when the network said America wouldn't buy a Cuban bandleader as her TV spouse.",
+   "They took a pay cut to shoot on 35mm with three cameras and a live audience so they could stay in California\u2014and Desilu kept ownership of the films.",
+   "That ownership deal and the three-camera sitcom grammar outlasted the ratings win."
+  ],
+  "q": "What unfashionable casting or format fight would you take a pay cut for if it meant owning the episodes?",
+  "added": "2026-10-16",
+  "id": "72d2197f",
+  "cat": "Stories",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Reverse Engineer Anything (REA): 5 Places to Point Your AI",
+  "author": "Nate B. Jones",
+  "url": "https://natesnewsletter.substack.com/p/rea-reverse-engineer-anything",
+  "minutes": 20,
+  "tags": [
+   "AI",
+   "tools",
+   "Claude",
+   "craft"
+  ],
+  "ideas": [
+   "REA lets Claude Code or Codex inspect real apps\u2014even closed ones\u2014and explain how a feature actually works.",
+   "Vibe-coded apps often look fine until you use them; reverse-engineering a working product turns fuzzy demos into specs you can rebuild.",
+   "Ask one finishable question (one behavior + the decision it informs), confirm the tools loaded with a tiny inspection, then turn a business rule into a checkable spec."
+  ],
+  "q": "Which competitor microdrama format or internal Thriving tool would you reverse-engineer first so the next Claude-built pipeline doesn't collapse on first real use?",
+  "added": "2026-10-16",
+  "id": "6df76af3",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "The AI CEO Dashboard Kit: An Excel Model, 14 Checks and 10 Claude Prompts",
+  "author": "The AI Corner",
+  "url": "https://www.the-ai-corner.com/p/the-ai-ceo-dashboard-kit-an-excel",
+  "minutes": 8,
+  "tags": [
+   "founders",
+   "AI",
+   "business"
+  ],
+  "ideas": [
+   "Most founders know MRR; fewer can answer NRR or burn multiple without three exports and fragile formulas.",
+   "Paste a Stripe/CRM CSV into one workbook for 8 board KPIs, 4 charts, and 14 checks that catch bad data before a data room does.",
+   "The sample shows healthy growth with weak NRR\u2014the number a pitch deck omits and diligence finds."
+  ],
+  "q": "If you pasted PocketFM/StoryTV/Thriving revenue into this kit tomorrow, which of the 8 KPIs would scare you most\u2014and which Claude prompt would you run first?",
+  "added": "2026-10-16",
+  "id": "b99871b4",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "How to Design for Failures",
+  "author": "ByteByteGo",
+  "url": "https://blog.bytebytego.com/p/how-to-design-for-failures",
+  "minutes": 12,
+  "tags": [
+   "tech",
+   "AI",
+   "craft"
+  ],
+  "ideas": [
+   "You cannot build a failure-proof system; even perfect code depends on power, disks, and networks that fail.",
+   "Design for failure means deciding in advance how the system behaves when parts break\u2014assume everything breaks.",
+   "Cover fault avoidance vs tolerance, blast-radius limits, correct operation during failure, and how you measure recovery."
+  ],
+  "q": "When a generation model, queue, or editor step dies mid-episode, what should Thriving's pipeline do instead of hanging\u2014and have you written that down?",
+  "added": "2026-10-16",
+  "id": "b8271c88",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Pick",
+  "title": "The SwitchScreen: Vivian Yin's Vision for Premium Microdrama",
+  "author": "ScreenMDM",
+  "url": "https://screenmdm.com/news/podcasts/the-switchscreen-vivian-yins-vision-for-premium-microdrama/",
+  "minutes": 6,
+  "tags": [
+   "microdrama",
+   "story",
+   "craft",
+   "distribution"
+  ],
+  "ideas": [
+   "Vertical is a new cinematic language, not a downgrade of cinema; the question is intention and craft, not duration.",
+   "The junk-food wave chased distribution and dopamine; the second wave must build IP longevity and believers, not buy users forever.",
+   "Taste cannot be taught like tools; design stories that can travel across formats (bigger screen, interactive, immersive)."
+  ],
+  "q": "Is Thriving optimizing for breakouts and IP that people share, or for disposable volume\u2014and what would 'build believers, don't buy users' change in your next series greenlight?",
+  "added": "2026-10-16",
+  "featured": true,
+  "id": "34e8b000",
+  "cat": "Stories",
+  "hero": true
+ },
+ {
+  "source": "Pick",
+  "title": "Beat Sheet for a Vertical Micro-Drama",
+  "author": "Versely Team",
+  "url": "https://www.versely.studio/blog/beat-sheet-for-a-vertical-micro-drama",
+  "minutes": 8,
+  "tags": [
+   "microdrama",
+   "story",
+   "craft",
+   "writing"
+  ],
+  "ideas": [
+   "A 60\u201390s episode is not a compressed three-act film: use four beats\u2014Resolve, Establish, Escalate, Cliff\u2014~15\u201320s each.",
+   "Open mid-consequence from the last cliffhanger (no 'previously on'); cut before the new consequence lands so viewers return.",
+   "Write beat 4 first, lock one canonical character reference for the whole series, and treat release cadence as part of the craft."
+  ],
+  "q": "Take your next episode script and force it into Resolve / Establish / Escalate / Cliff\u2014which beat is soft, and did you write the cliffhanger before the middle?",
+  "added": "2026-10-16",
+  "id": "726e36fe",
+  "cat": "Stories",
+  "hero": true
+ },
+ {
+  "source": "Instagram",
+  "title": "Haiku 5.5 helper skill + CLAUDE.md note (comment LIMIT)",
+  "author": "Instagram (storieswithpratik save)",
+  "url": "https://www.instagram.com/p/DebKw4BDNgI/",
+  "minutes": 2,
+  "tags": [
+   "Claude",
+   "tools"
+  ],
+  "ideas": [
+   "A shareable Claude skill pairing a Haiku helper with a CLAUDE.md note.",
+   "Aimed at working around usage limits without abandoning the workflow.",
+   "Setup tips travel as comment-gated skills in the Claude creator community."
+  ],
+  "q": "Would a Haiku helper + CLAUDE.md pattern help your studio stay productive when Claude rate-limits hit mid-pipeline?",
+  "added": "2026-10-16",
+  "id": "161f5cdf",
   "cat": "Tech",
   "hero": false
  }

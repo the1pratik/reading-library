@@ -1859,7 +1859,7 @@
   "added": "2026-10-15",
   "id": "96ae6557",
   "cat": "Stories",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Pick",
@@ -2242,5 +2242,123 @@
   "id": "66f6ce1c",
   "cat": "Stories",
   "hero": true
+ },
+ {
+  "source": "Pick",
+  "title": "How Pixar Fosters Collective Creativity",
+  "author": "Ed Catmull (Harvard Business Review)",
+  "url": "https://hbr.org/2008/09/how-pixar-fosters-collective-creativity",
+  "minutes": 25,
+  "tags": [
+   "story",
+   "founders",
+   "creativity",
+   "culture",
+   "craft"
+  ],
+  "ideas": [
+   "Catmull opens by disagreeing with a studio head who said his problem was finding good ideas, not good people; Pixar's bet is that a great team will fix or replace a mediocre idea, while a mediocre team will ruin a great one.",
+   "Toy Story 2 was judged not good enough late in production and rebuilt with about nine months left, which became the lesson that quality has to be owned by the whole studio, not protected by a schedule.",
+   "The Braintrust gives directors blunt notes from peers but has no authority to force changes, and daily reviews of unfinished work make showing rough cuts normal instead of embarrassing."
+  ],
+  "q": "At Thriving, who is your Braintrust, and does anyone see an episode while it's still rough enough to change cheaply?",
+  "added": "2026-10-19",
+  "featured": true,
+  "score": 11,
+  "id": "c3341513",
+  "cat": "Stories",
+  "hero": true
+ },
+ {
+  "source": "Podcast",
+  "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+  "author": "Lenny's Podcast",
+  "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+  "minutes": 72,
+  "tags": [
+   "AI",
+   "Anthropic",
+   "interpretability",
+   "tech"
+  ],
+  "ideas": [
+   "Anthropic interpretability researcher Emmanuel Ameisen argues the 'next-token predictor' framing undersells models: they form general representations of concepts and plan many tokens ahead without saying so.",
+   "Models are 'grown, not built', which is why looking inside them is closer to biology than reading code, and why some anthropomorphizing can be the right mental model.",
+   "What look like sudden capability jumps sit on smooth scaling curves underneath, and interpretability is how you check alignment instead of trusting outputs."
+  ],
+  "q": "If a model really plans several beats ahead, how would you prompt or structure your AI writing pipeline to make it plan a whole episode's cliffhanger, not just the next line?",
+  "added": "2026-10-19",
+  "cat": "Podcasts",
+  "id": "3de97cce",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Notes on building things for people",
+  "author": "Sari Azout (Sublime)",
+  "url": "https://sublimeinternet.substack.com/p/notes-on-building-things-for-people",
+  "minutes": 5,
+  "tags": [
+   "founders",
+   "creator",
+   "culture",
+   "product"
+  ],
+  "ideas": [
+   "It's easy to measure what people do with your product and much harder to measure what it does to them; proxy metrics like clicks and time spent quietly distort incentives.",
+   "Azout calls out the 'wait-for-it' Reels genre that delays the point to farm watch time, and argues for values clear enough to work as a decision filter (no streaks at Sublime).",
+   "'How many people you touch beats how many people you reach': a small audience that loves you can matter more than a big one that barely notices."
+  ],
+  "q": "Microdramas are built on cliffhangers that drive watch time. Where is the line for Thriving between a hook that earns the next episode and one that just farms it?",
+  "added": "2026-10-19",
+  "id": "158306e1",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Why India Lacks An Nvidia",
+  "author": "Govindraj Ethiraj (The Core)",
+  "url": "https://www.thecoredaily.in/p/why-india-lacks-an-nvidia",
+  "minutes": 5,
+  "tags": [
+   "founders",
+   "India",
+   "business",
+   "tech"
+  ],
+  "ideas": [
+   "Urban Company began when Abhiraj Singh Bhal couldn't get a carpenter to show up to hang paintings; the story repeats at Ixigo and Meesho, which now handles roughly 40% of India's e-commerce shipments.",
+   "Ethiraj's argument is that India's IIT-trained founders gravitate to the most glaring everyday breakdowns, so their brainpower goes to compensating for broken services rather than frontier tech.",
+   "He frames it as a lack of mindspace, not money: fix daily friction and infrastructure, and ambition rises toward world-beating products, rather than the state playing venture capitalist."
+  ],
+  "q": "Thriving is an India-based team selling AI films to global buyers. Which everyday friction are you solving, and is it holding you back from the bigger bet?",
+  "added": "2026-10-19",
+  "id": "7d975918",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Instagram",
+  "title": "Storyboard AI reels frame by frame before you generate anything",
+  "author": "@thepiyushkukreja (storieswithpratik save)",
+  "url": "https://www.instagram.com/p/DeMILMcqpzg/",
+  "minutes": 2,
+  "tags": [
+   "AI",
+   "video",
+   "craft",
+   "creator"
+  ],
+  "ideas": [
+   "Pick one visual style and stick to it so every frame looks like the same reel.",
+   "Write the script first, then storyboard it frame by frame before generating any shots.",
+   "Record the voiceover once for the whole piece instead of patching lines shot by shot."
+  ],
+  "q": "Would a locked style and a frame-by-frame storyboard speed up your Almanac motion graphics and Thriving's AI episodes, or does it kill the happy accidents?",
+  "added": "2026-10-19",
+  "id": "b7a1ef4b",
+  "cat": "Tech",
+  "hero": false
  }
 ]

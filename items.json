@@ -2079,7 +2079,7 @@
   "featured": true,
   "id": "34e8b000",
   "cat": "Stories",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Pick",
@@ -2598,6 +2598,127 @@
   "score": 8,
   "id": "598441f1",
   "cat": "Stories",
+  "hero": false
+ },
+ {
+  "source": "Pick",
+  "title": "Drama Queen",
+  "author": "Meenal Baghel (The Big Indian Picture)",
+  "url": "https://thebigindianpicture.com/2013/10/drama-queen/",
+  "minutes": 45,
+  "tags": [
+   "story",
+   "founders",
+   "craft",
+   "distribution",
+   "culture"
+  ],
+  "ideas": [
+   "Ekta Kapoor's first pilot, Jeans 'n' Josh, was a dark show about peer pressure and AIDS. Star TV told her to bring something happy and family oriented. She took the note, and the happy family soaps that followed went on to define Indian television.",
+   "'It's not amazing talent that makes me special, but the sheer volume of work I have done.' Balaji ran about ten serials at once and made over seventy shows in fourteen years. She made a 21-year-old her creative head after he said his mother wouldn't buy a lead character's logic.",
+   "After a decade-long exclusive partnership, Star ended the deal, axed three soaps and sold its 26% stake, and the stock went into a tailspin. An insider explains the family system: Shobha plays hardball with channels by morning, and Jeetendra soothes the same executives over drinks by evening."
+  ],
+  "q": "Kapoor built for 'women like his mother' and nearly went under when one buyer walked away. Who is Thriving's mother-in-the-audience, and what happens to the studio if PocketFM leaves?",
+  "added": "2026-10-26",
+  "score": 9,
+  "cat": "Stories",
+  "featured": true,
+  "id": "0f124585",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "He Deleted $7M in Revenue. Now His AI Data Company Is Worth $4B",
+  "author": "Ari Dutilh (Solo Founders)",
+  "url": "https://solofounders.com/blog/he-deleted-7m-in-revenue-now-his-ai-data-company-is-worth-4b-ali-ansari-micro1/",
+  "minutes": 7,
+  "tags": [
+   "founders",
+   "AI",
+   "strategy",
+   "business"
+  ],
+  "ideas": [
+   "About three years ago one big customer, a future competitor, walked away and micro1 lost 60% of its revenue overnight. Instead of retreating, Ali Ansari went all in on that same market, and this month micro1 passed a $1B run rate, profitable, with about 180 people.",
+   "'Only the founding team can inject risk into the company.' He shut down a $7M-run-rate recruiting business with one Loom video, and later cancelled every human screening call in a single week. A few people nearly quit, and then the expert pool grew in step with revenue.",
+   "The async rules: whoever opens a thread proposes the fix and owns the final actions, people who add nothing stay out, and nobody says 'let's circle back next week'. In his model, progress is the quality of actions times the volume of actions."
+  ],
+  "q": "micro1 nearly died when one account left. What is the one risky decision only you can make this quarter so that Thriving stops depending on a single client?",
+  "added": "2026-10-26",
+  "score": 9,
+  "cat": "Founders",
+  "id": "b3389a71",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Why Doesn't Ancient Fiction Talk About Feelings?",
+  "author": "Julie Sedivy (Nautilus, via Matter)",
+  "url": "https://nautil.us/why-doesnt-ancient-fiction-talk-about-feelings-236582",
+  "minutes": 16,
+  "tags": [
+   "story",
+   "writing",
+   "craft"
+  ],
+  "ideas": [
+   "A saga from around 1230 has King Harold raise a fleet, win battles and rule Norway in three paragraphs without one line on how he felt. David Foster Wallace takes 12 pages to get a 13-year-old off a diving board, and all of it happens inside his head.",
+   "Medieval writers showed emotion through stock gestures like wringing hands and tearing hair. Between 1500 and 1700, characters started pausing mid-action for monologues about mixed desires, and the novel later added narrators who could see motives the characters couldn't.",
+   "Studies suggest heavy fiction readers are better at reading emotions from photos of eyes. Formulaic genre stories rely on stock characters with obvious motives, while literary fiction makes readers work out minds that surprise them."
+  ],
+  "q": "Microdramas are closer to sagas: fast action, stock villains, emotions you can predict. Where could one surprising inner moment make a Thriving character feel real without slowing the episode?",
+  "added": "2026-10-26",
+  "score": 8,
+  "cat": "Stories",
+  "id": "c9748974",
+  "hero": false
+ },
+ {
+  "source": "X",
+  "title": "Sume API: AI video models with 0% markup",
+  "author": "David Im (@davidim)",
+  "url": "https://x.com/davidim/status/2113316147512897982",
+  "minutes": 4,
+  "tags": [
+   "AI",
+   "video",
+   "business",
+   "tools"
+  ],
+  "ideas": [
+   "His count of what resellers add on top of model prices: Higgsfield's API about 40% even at its best discount, Fal 100%, and Runway 414% on Seedance 2 480p.",
+   "Sume claims to pass the model cost straight through. Seedance 2.5 at 1080p is about 50% cheaper than Fal and Higgsfield and about 28% cheaper than Kie AI, pay as you go with no subscription, with a Higgsfield-style UI and an MCP/CLI for Claude.",
+   "His thesis: routing is never the moat. Model access will be a commodity, and the moats will be built at the application layer. The post drew about 800K views and 7K bookmarks."
+  ],
+  "q": "If generation is about to get 30 to 50% cheaper, does Thriving keep the margin or pass it to PocketFM, and what in the studio is still hard to copy once anyone can buy the same models at cost?",
+  "added": "2026-10-26",
+  "score": 7,
+  "cat": "Tech",
+  "id": "cf38ae6d",
+  "hero": false
+ },
+ {
+  "source": "Podcast",
+  "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+  "author": "Lenny Rachitsky (Lenny's Podcast)",
+  "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+  "minutes": 86,
+  "tags": [
+   "founders",
+   "growth",
+   "strategy",
+   "startups"
+  ],
+  "ideas": [
+   "Snyder spent two years pushing a product the market didn't want before he stumbled onto what works. He has since helped more than 50 startups get from zero to $1M ARR.",
+   "PULL is the state of having demand: a Project on the buyer's to-do list that is Unavoidable right now, where the options they Look into are Lacking for a critical reason. When all four hold, customers pull the product out of your hands.",
+   "The episode covers where the best ideas come from, cold outreach and first sales calls, why he advises against design partners, and 'goblin mode' for when nothing is working. The full episode is free on YouTube, Spotify and Apple; Lenny's written takeaways are for paid subscribers."
+  ],
+  "q": "Run Thriving's white-label agency pitch through PULL. Which agency owner has an unavoidable project this month, and why can't their current options deliver it?",
+  "added": "2026-10-26",
+  "score": 7,
+  "cat": "Podcasts",
+  "id": "ba598104",
   "hero": false
  }
 ]

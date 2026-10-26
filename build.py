@@ -31,7 +31,7 @@ for d in D:
     seen.add(d['url']); d['id']=hashlib.md5(d['url'].encode()).hexdigest()[:8]; d['cat']=cat(d); out.append(d)
 # This week: featured overrides, then best of newest ~10 days, one per author
 latest=max(d['added'] for d in out); cut=(datetime.date.fromisoformat(latest)-datetime.timedelta(days=10)).isoformat()
-pool=[d for d in out if d.get('featured')]+sorted([d for d in out if d['added']>=cut and not d.get('featured')],key=lambda d:(-score(d),d['added']),reverse=False)
+pool=sorted([d for d in out if d.get('featured')],key=lambda d:d['added'],reverse=True)+sorted([d for d in out if d['added']>=cut and not d.get('featured')],key=lambda d:(-score(d),d['added']),reverse=False)
 hero=[];auth=set()
 for d in pool:
     if d['author'] in auth: continue

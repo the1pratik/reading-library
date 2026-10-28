@@ -2241,7 +2241,7 @@
   "score": 11,
   "id": "66f6ce1c",
   "cat": "Stories",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Pick",
@@ -2719,6 +2719,101 @@
   "score": 7,
   "cat": "Podcasts",
   "id": "ba598104",
+  "hero": false
+ },
+ {
+  "source": "Pick",
+  "title": "How Squid Game Turned Rage and Desperation Into a Radical Hit",
+  "author": "R.O. Kwon (Vanity Fair)",
+  "url": "https://www.vanityfair.com/hollywood/2022/05/squid-game-season-2-awards-insider",
+  "minutes": 14,
+  "tags": [
+   "story",
+   "craft",
+   "microdrama",
+   "culture"
+  ],
+  "ideas": [
+   "In 2009 Hwang Dong-hyuk, in debt along with his mother and grandmother, wrote Squid Game as a film. Investors called it too unrealistic and too violent, so it sat in a drawer for ten years.",
+   "By 2018 rising inequality made the premise feel real, and Netflix, newly building in Asia, turned it into a nine-episode series. Within ten days it was the most watched Netflix show in 90 countries.",
+   "Hwang built it on gambling because desperate people drop their masks and show 'very pure emotions'. He kept rewriting scenes the night before shooting, such as the dying Sang-woo reaching out a hand to Gi-hun, to find a glimpse of humanity in a villain."
+  ],
+  "q": "Which of Thriving's shelved or rejected story ideas might the moment have caught up with, and what is the one raw emotion your next series is built on?",
+  "added": "2026-10-28",
+  "score": 9,
+  "featured": true,
+  "id": "8949c491",
+  "cat": "Stories",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "Databricks & the Future of the Firm",
+  "author": "a16z",
+  "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+  "minutes": 28,
+  "tags": [
+   "AI",
+   "business",
+   "founders",
+   "strategy"
+  ],
+  "ideas": [
+   "Databricks has passed a $7 billion revenue run rate, growing 80% a year. It now sees more queries from agents than from people, and agents launch more than 17 million databases on it every day.",
+   "The piece argues agents need a shared system of record (what is true, what data means, who can do what, what worked) so people and agents can act without routing every decision through layers of managers.",
+   "The long-run change isn't 'everyone is an engineer' but 'everyone is a manager': agents handle work that's already figured out, and people judge what's good and decide what should exist next."
+  ],
+  "q": "If your agents and editors all worked from one shared record of what each client wants and what passed QC, which decisions could stop waiting on you?",
+  "added": "2026-10-28",
+  "score": 7,
+  "id": "05525721",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Let Chaos Reign, and Then Rein In Chaos",
+  "author": "a16z (Replit essay)",
+  "url": "https://www.a16z.news/p/let-chaos-reign-and-then-rein-in",
+  "minutes": 8,
+  "tags": [
+   "AI",
+   "business",
+   "strategy"
+  ],
+  "ideas": [
+   "Written for the launch of Replit for Business: most AI agents today live in chaos, in chat windows, personal accounts and one-off scripts, and nobody can see what they did.",
+   "PCs, spreadsheets and email all entered offices the same messy way, with people lying on purchase forms to get PCs and 'rogue spreadsheets' that only their maker understood. The winners built a habitat instead of a ban.",
+   "The goal is 'free-range' agents: not caged, not running wild, but inside rules for access, audit and versioning that keep the bottom-up energy alive."
+  ],
+  "q": "Which of your team's personal AI hacks should become a shared, logged studio workflow, and which should stay free-range?",
+  "added": "2026-10-28",
+  "score": 6,
+  "id": "44510fb3",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "X",
+  "title": "Give Claude 17M+ free films and 14M audio recordings for video edits",
+  "author": "@ElliotPadfield",
+  "url": "https://x.com/ElliotPadfield/status/2113393903923581149",
+  "minutes": 2,
+  "tags": [
+   "AI",
+   "video",
+   "tools"
+  ],
+  "ideas": [
+   "The Internet Archive has a free API that needs no key, documented at archive.org/developers.",
+   "It holds 10,000+ public-domain Prelinger films for stock and archival b-roll, 187,000 78rpm records and 300,000+ live concert recordings.",
+   "His suggested standing instruction to Claude: whenever you need archival b-roll or period music, search the Prelinger and 78rpm collections and use them in the edit."
+  ],
+  "q": "Could Almanac reels or period microdramas pull free archival b-roll and music instead of generating every shot, and what licence check would you need first?",
+  "added": "2026-10-28",
+  "score": 5,
+  "id": "ec02b4f0",
+  "cat": "Tech",
   "hero": false
  }
 ]

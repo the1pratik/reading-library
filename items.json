@@ -2149,7 +2149,7 @@
   "score": 12,
   "id": "062eaa40",
   "cat": "Stories",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -2813,6 +2813,122 @@
   "added": "2026-10-28",
   "score": 5,
   "id": "ec02b4f0",
+  "cat": "Tech",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Gillian Flynn: How to Write Thrilling Stories",
+  "author": "David Perell (How I Write)",
+  "url": "https://howiwrite.substack.com/p/gillian-flynn-how-to-write-thrilling",
+  "minutes": 52,
+  "tags": [
+   "writing",
+   "storytelling",
+   "film"
+  ],
+  "ideas": [
+   "Flynn says she never consciously builds suspense; she layers crisis on tension and lets the dread come from the story itself.",
+   "Her cure for writer's block: on stuck days, write three good pages that make you happy, even if they never make the book. Gone Girl's 'Cool Girl' monologue began as one of those exercises.",
+   "TV notes always say audiences quit if nothing happens in five minutes, but she argues the slow burn still works if you earn it, like the clicks of a roller coaster going up."
+  ],
+  "q": "Which of your microdrama or Almanac scripts is chasing a hook in the first seconds when a well-earned slow build would land harder?",
+  "score": 8,
+  "featured": true,
+  "added": "2026-10-30",
+  "id": "19dd07e4",
+  "cat": "Stories",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "AI is overwhelming and I'm doing it wrong",
+  "author": "Ben Tossell (Ben's Bites)",
+  "url": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
+  "minutes": 7,
+  "tags": [
+   "AI",
+   "founders",
+   "focus"
+  ],
+  "ideas": [
+   "Tossell admits he's felt stuck for about 10 months, re-questioning every business direction while the flood of new tools and agents keeps growing.",
+   "He quotes Colossus's 'The Sane Asylum' and Jack Raines's 'The Difference Between Can and Should': being able to build anything with an agent doesn't mean you should.",
+   "His answer is play: he only stays motivated when work feels like fun, and he says you don't need swarms of agents optimising your life."
+  ],
+  "q": "Of everything your bots are running right now, which jobs actually move Thriving forward, and which are just one more pull of the slot machine?",
+  "score": 7,
+  "added": "2026-10-30",
+  "id": "a2863a44",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "What Is Special About Human Beings?",
+  "author": "The Culturist",
+  "url": "https://www.theculturist.io/p/what-is-special-about-human-beings",
+  "minutes": 6,
+  "tags": [
+   "culture",
+   "AI",
+   "books"
+  ],
+  "ideas": [
+   "Mary Shelley wrote Frankenstein at 18, against the backdrop of the Industrial Revolution pushing artisans out and into the factories that replaced them.",
+   "Victor Frankenstein embodies what Pope Francis called the technocratic paradigm: treating technical progress as the highest good and a person as a sum of measurable parts.",
+   "The essay reads the novel as a warning that progress must be guided by an understanding of what makes human life valuable, and asks whether that value can ever be manufactured."
+  ],
+  "q": "If AI can make the shots, what is the human part of a Thriving film that a client is really paying for?",
+  "score": 6,
+  "added": "2026-10-30",
+  "id": "7e9bd443",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "India's IPO Boom Is Leaving Stock Markets Behind",
+  "author": "Dev Chandrasekhar (The Core)",
+  "url": "https://thecoredaily.in/p/india-s-ipo-boom-is-leaving-stock-markets-behind",
+  "minutes": 9,
+  "tags": [
+   "India",
+   "markets",
+   "business"
+  ],
+  "ideas": [
+   "219 companies listed in FY26, raising a record Rs 1.8 lakh crore, while the Nifty has fallen about 14% this year.",
+   "Jio Platforms raised Rs 30,213 crore, India's biggest IPO, and listed at about $137 billion; institutions bid 67 times their quota, retail under three times.",
+   "61% of FY26 mainboard IPO money came from offers for sale, so PE funds, VCs and promoters are cashing out using the same pool of domestic SIP money that would otherwise lift listed shares."
+  ],
+  "q": "Is 'record IPOs, flat market' a story Almanac could tell as a reel about who is really cashing out?",
+  "score": 6,
+  "added": "2026-10-30",
+  "id": "43d672c8",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "X",
+  "title": "TLDR on the new X algorithm update",
+  "author": "@shannholmberg",
+  "url": "https://x.com/shannholmberg/status/2115209444577648743",
+  "minutes": 2,
+  "tags": [
+   "X",
+   "growth",
+   "distribution"
+  ],
+  "ideas": [
+   "Follow your reply guys back: a reply from a mutual counts 4x a normal reply.",
+   "Write posts people want to share; when someone copies and shares your post's link it counts 30x a like.",
+   "Timing matters too: the thread also covers when to post for your followers."
+  ],
+  "q": "Which of these should Max change in how Thriving's X posts are written and timed this week?",
+  "score": 5,
+  "added": "2026-10-30",
+  "id": "0277bd6f",
   "cat": "Tech",
   "hero": false
  }

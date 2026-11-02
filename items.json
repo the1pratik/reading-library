@@ -2931,5 +2931,97 @@
   "id": "0277bd6f",
   "cat": "Tech",
   "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Anthropic Acquired a One-Person Biotech Startup",
+  "author": "Solo Founders",
+  "url": "https://solofounders.com/blog/anthropic-acquired-a-one-person-biotech-startup/",
+  "minutes": 6,
+  "tags": [
+   "AI",
+   "founders",
+   "agents"
+  ],
+  "ideas": [
+   "Mithril Medicine had one full-time employee, Cody Tranbarger; part-time consultants, 11 outside labs and Claude did the rest, taking a rare muscular dystrophy drug from idea to promising mouse results in under 18 months before Anthropic bought it.",
+   "Claude saved the most time on logistics, not molecule design: scoping lab work, chasing results and passing data between vendors. In one week it read a 341-page data package on 113 antibody designs in under 8 minutes.",
+   "The rule was 'Claude sent no email': it drafted 17, the team edited and sent 12, overruled its plan once, and the report concludes 'the judgments remained with us.'"
+  ],
+  "q": "Mithril's split (bot drafts, human decides and sends) is exactly how your bot studio runs. Could this be an Almanac reel about one person plus AI running a whole company?",
+  "score": 9,
+  "added": "2026-11-02",
+  "id": "a657007a",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "New Founder Archetypes in the AI Age",
+  "author": "Andrew Chen (a16z)",
+  "url": "https://www.a16z.news/p/new-founder-archetypes-in-the-ai",
+  "minutes": 8,
+  "tags": [
+   "founders",
+   "AI",
+   "VC"
+  ],
+  "ideas": [
+   "AI may let a solo founder do what used to need a business plus technical cofounder pair, but Ben Horowitz's counterpoint is that the bar for a seed-stage v1 rises, so a team multiplied by AI may still win.",
+   "Non-technical founders from finance, consulting and creative fields can now build, yet the gap between a demo and a reliable product means technical judgment may matter more, not less.",
+   "Domain experts like doctors or brokers can build for their own problems, but hoteliers didn't create Airbnb: sometimes an outsider's view is what reinvents an industry."
+  ],
+  "q": "Which archetype are you at Thriving, and where does the 'outsider' argument cut for or against you?",
+  "score": 8,
+  "added": "2026-11-02",
+  "id": "5fd4fe8a",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+  "author": "Lenny Rachitsky",
+  "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+  "minutes": 88,
+  "tags": [
+   "growth",
+   "UGC",
+   "podcast"
+  ],
+  "ideas": [
+   "Hector Serrano joined Wispr Flow at 19, before product-market fit, and built a roster of 50 creators making 500 to 600 paid UGC ads a month.",
+   "Creators are paid a cut of ad spend, and the best earn over $13,000 a month: a DTC playbook adapted for SaaS while revenue grew 30x in a year and the company raised at a $2B valuation.",
+   "He argues the best marketers are 'allergic to AI', that startups should recruit like sports teams, and that YouTube is the most underrated growth lever in SaaS."
+  ],
+  "q": "Could Thriving sell trailers and ad cuts into exactly this kind of paid-UGC machine?",
+  "score": 7,
+  "added": "2026-11-02",
+  "id": "4b515c91",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Report from the Vatican",
+  "author": "Gary Marcus",
+  "url": "https://garymarcus.substack.com/p/report-from-the-vatican",
+  "minutes": 13,
+  "tags": [
+   "AI",
+   "policy",
+   "ethics"
+  ],
+  "ideas": [
+   "Marcus met Pope Leo XIV and calls him the clearest thinker on AI among world leaders, praising his AI encyclical Magnifica Humanitas.",
+   "The Pope's speech says AI's future isn't predetermined, that machines are tools not persons (so no legal personhood), and that decisions over life, freedom and force must stay under human oversight, including a call to ban lethal autonomous weapons.",
+   "His most urgent point: we already know the ethical principles; what's missing are international institutions with shared standards, independent oversight and accountability."
+  ],
+  "q": "Is 'the Pope is the clearest voice on AI' a surprising-power angle Almanac could turn into a reel?",
+  "score": 6,
+  "added": "2026-11-02",
+  "id": "3733917a",
+  "cat": "Newsletters",
+  "hero": false
  }
 ]

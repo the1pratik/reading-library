@@ -2267,7 +2267,7 @@
   "score": 11,
   "id": "c3341513",
   "cat": "Stories",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Podcast",
@@ -3140,6 +3140,79 @@
   "added": "2026-11-06",
   "id": "b5276968",
   "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Hip-Hop Has No Social Security. Paid in Full Is Trying to Change That.",
+  "author": "Jeff Weiss (a16z)",
+  "url": "https://www.a16z.news/p/hip-hop-has-no-social-security-paid",
+  "minutes": 12,
+  "tags": [
+   "culture",
+   "music",
+   "creators",
+   "business"
+  ],
+  "ideas": [
+   "Grandmaster Caz lent his rhyme book to Big Bank Hank, whose verses on 'Rapper's Delight' were Caz's own, spelled name included, yet Caz never got royalties or songwriting credit.",
+   "From its first hit, hip-hop's business side ran on chicanery and exploitation: the Sugarhill Gang was assembled like a boy band by Sylvia Robinson and her son.",
+   "The Paid in Full Foundation's Hip Hop Grandmaster Awards are a late attempt to pay the pioneers who built a multibillion-dollar culture."
+  ],
+  "q": "Whose uncredited work is your studio's output quietly built on, and how would you make sure they get paid?",
+  "score": 8,
+  "featured": true,
+  "added": "2026-11-09",
+  "id": "e19758b3",
+  "cat": "Newsletters",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "Defense in Depth, Rebuilt for Machine Speed",
+  "author": "Asaf Ezra (a16z)",
+  "url": "https://www.a16z.news/p/defense-in-depth-rebuilt-for-machine",
+  "minutes": 20,
+  "tags": [
+   "AI",
+   "security",
+   "tech",
+   "VC"
+  ],
+  "ideas": [
+   "AI made turning a bug into a working exploit cheap, but patching did not speed up: exploits take hours while fixes take weeks, years, or never arrive.",
+   "Verizon's 2026 breach report put median full remediation at 43 days, and patching hundreds of times a day just swaps attacks for self-inflicted outages, like the 2024 CrowdStrike crash.",
+   "The products that matter next are ones that protect systems that can't be patched quickly, by standing between the attacker and the bug, as edge providers did during the October PHP leak."
+  ],
+  "q": "Which of your bots' tools would you be unable to patch quickly if something broke, and what stands in front of them?",
+  "score": 7,
+  "added": "2026-11-09",
+  "id": "f1261dbc",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Podcast",
+  "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+  "author": "Lenny Rachitsky",
+  "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+  "minutes": 59,
+  "tags": [
+   "AI",
+   "product",
+   "podcast",
+   "Google"
+  ],
+  "ideas": [
+   "Tulsee Doshi runs product for Google's frontier models (Gemini, Nano Banana, Genie, Veo, Lyria) and compares model development to Snape's potions class rather than plain engineering.",
+   "Her 60-20-20 framework balances what works now against what's almost working, so a team ships ahead of the curve.",
+   "Evals and vibes both matter, and the episode walks through how to write your first eval and why great PMs are gaining value."
+  ],
+  "q": "If you split your studio's bets 60-20-20, what's in the 20% that's almost working?",
+  "score": 7,
+  "added": "2026-11-09",
+  "id": "711cf476",
+  "cat": "Podcasts",
   "hero": false
  }
 ]

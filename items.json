@@ -2624,7 +2624,7 @@
   "cat": "Stories",
   "featured": true,
   "id": "0f124585",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -3309,6 +3309,103 @@
   "added": "2026-11-11",
   "id": "ebd1f940",
   "cat": "Stories",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Welcome to the B2A Economy",
+  "author": "Olivia Moore & Justine Moore (a16z)",
+  "url": "https://www.a16z.news/p/welcome-to-the-b2a-economy",
+  "minutes": 7,
+  "tags": [
+   "AI",
+   "agents",
+   "distribution",
+   "business"
+  ],
+  "ideas": [
+   "Agents now make up most web traffic, and as they move from answering to doing, they will pick which products to use and where to spend money, so businesses that treat agents as first-class customers get the next wave of growth.",
+   "AI has overdelivered on new capability but underdelivered on new distribution; Shopify saw AI-driven store traffic grow 8x and AI-search orders nearly 13x year over year, and AI-referred visitors convert better.",
+   "Coding agents are the preview: Supabase says over 60% of new databases are launched by AI tools and Vercel saw agent-triggered deploys rise 28x, and fewer than 1% of workers are developers."
+  ],
+  "q": "If an agent, not a person, were choosing an AI-setup vendor for a small business tomorrow, what would it find about you, and would it pick you?",
+  "score": 9,
+  "featured": true,
+  "added": "2026-11-13",
+  "id": "3a280c66",
+  "cat": "Newsletters",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "How to Build an AI-Native Software Factory (Even With a Team of Five)",
+  "author": "Ruben Dominguez (The AI Corner)",
+  "url": "https://www.the-ai-corner.com/p/ai-native-software-factory-small-teams",
+  "minutes": 13,
+  "tags": [
+   "AI",
+   "agents",
+   "engineering",
+   "operations"
+  ],
+  "ideas": [
+   "Over 70% of Uber's pull requests now come from agents, but review time went from about 3 to 9 hours and it burned its 2026 AI budget in 4 months, so speed without a system just moves the bottleneck.",
+   "Start with one line of toil that is frequent and easy to check (dependency updates, flaky tests, lint fixes), buy a hosted agent for it, and keep three human checkpoints: accept the task, approve the plan, approve the merge.",
+   "Keep the tool list short (Uber's 100+ MCP tools cost 50K to 70K tokens per session) and put hard gates in place before an agent gets access, since an instruction in chat did not stop Replit's agent from deleting a production database."
+  ],
+  "q": "Which of your bots has more access than its one job needs, and what is the single gate that would stop its worst possible mistake?",
+  "score": 8,
+  "added": "2026-11-13",
+  "id": "90126185",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "$1.5M to $20M Run Rate in 7 Months, Solo (Ben Cera, Polsia)",
+  "author": "Solo Founders Podcast",
+  "url": "https://solofounders.beehiiv.com/p/1-5m-to-20m-run-rate-in-7-months-solo",
+  "minutes": 60,
+  "tags": [
+   "founders",
+   "AI",
+   "solo",
+   "podcast"
+  ],
+  "ideas": [
+   "Polsia, an AI that builds and runs companies, went from $1.5M to over $20M in annualized revenue in seven months with almost 50,000 paying customers, and Ben Cera is still the only full-time human.",
+   "The customers are not developers: many are over 40 with long industry careers, they don't want anything as complex as Claude Code, and for about $20 they get a live site taking payments and walk away saying 'I'm a founder'.",
+   "Cera dropped four or five products before Polsia and argues solo plus AI wins on speed because the build-and-learn loops are so much shorter."
+  ],
+  "q": "Who is the non-technical buyer for what you already know how to set up with AI, and what would the $20 version of it look like?",
+  "score": 8,
+  "added": "2026-11-13",
+  "id": "4886c0f7",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "How I Got Seduced",
+  "author": "Ben Tossell (Ben's Bites)",
+  "url": "https://www.bensbites.com/p/how-i-got-seduced",
+  "minutes": 5,
+  "tags": [
+   "marketing",
+   "distribution",
+   "brand",
+   "founders"
+  ],
+  "ideas": [
+   "Ramp sells a boring product but wins attention with stunts, like putting the actor who played Kevin from The Office in a glass box processing 600K expense reports, seen by 200M+ people.",
+   "The exhaust of each stunt becomes content, and a marketing team of just seven runs it, backed by heavy podcast sponsorship and odd channels tried before others get there.",
+   "The weirdness came after a down round, when most companies cut experiments; Ramp leaned on empathy, taste and velocity instead, and growth sped up."
+  ],
+  "q": "What is the one stunt for @thealmanac.hq whose leftovers would also give you a week of posts?",
+  "score": 7,
+  "added": "2026-11-13",
+  "id": "8ce90f20",
+  "cat": "Newsletters",
   "hero": false
  }
 ]

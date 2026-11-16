@@ -3238,7 +3238,7 @@
   "added": "2026-11-11",
   "id": "e72610b3",
   "cat": "Newsletters",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -3405,6 +3405,79 @@
   "score": 7,
   "added": "2026-11-13",
   "id": "8ce90f20",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Nvidia Without Jensen: The Founder Control Playbook",
+  "author": "Ruben Dominguez (The AI Corner)",
+  "url": "https://www.the-ai-corner.com/p/nvidia-without-jensen-huang-founder-control-playbook-2026",
+  "minutes": 8,
+  "tags": [
+   "AI",
+   "founders",
+   "power",
+   "governance"
+  ],
+  "ideas": [
+   "Jensen Huang owned about 3.6% of Nvidia with one vote per share, so once the board moved it took four days, from the Nov 8 investigation to his Nov 12 resignation, to remove the founder the whole AI industry runs on.",
+   "Compare Mark Zuckerberg (about 61% of Meta's votes) and Matt Mullenweg (about 84% of Automattic's voting power, back in charge within about 33 hours): voting control, not fame or track record, decides who can fire a founder.",
+   "CUDA, the roadmap and supply contracts stay with Nvidia, so the near-term numbers likely hold; what shifts over 12 to 24 months is bargaining power over GPU allocation, CEO-to-CEO deals and Washington, which is AMD's and the hyperscalers' opening."
+  ],
+  "q": "If your biggest client or partner decided tomorrow they didn't want you, who actually has the power to remove you from your own business, and what would stop them?",
+  "score": 9,
+  "featured": true,
+  "added": "2026-11-16",
+  "id": "95cef59f",
+  "cat": "Newsletters",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "Garry Tan Spends $100K to $200K a Year on AI Tokens. Here's a Personal AI Agent for $170",
+  "author": "Ruben Dominguez (The AI Corner)",
+  "url": "https://www.the-ai-corner.com/p/garry-tan-personal-ai-agent-kit",
+  "minutes": 9,
+  "tags": [
+   "AI",
+   "agents",
+   "founders",
+   "productivity"
+  ],
+  "ideas": [
+   "Tan's personal agent has read his email, Dropbox and 20 years of notes, and prepped his Walter Isaacson interview by transcribing and theming Isaacson's top 10 podcasts about 15 minutes beforehand; a run like that costs roughly $1 on current models.",
+   "He spends about $100K to $200K a year on tokens and calls it a privilege, but Opus output prices fell about 73% in 16 months ($75 to $20 per million tokens), so he expects everyone to have this within two to three years.",
+   "His founder test comes before any tool: what do you uniquely know, what life did you live, what have you seen that nobody else has, then pair that with an agent that can code and reason."
+  ],
+  "q": "Your bots already read your inbox and Notion; which one meeting this week could an agent prep better than you, and are you letting it?",
+  "score": 8,
+  "added": "2026-11-16",
+  "id": "8ab57e5f",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "How Sherman Vanished Into Georgia for a Month",
+  "author": "This Day In History",
+  "url": "https://historytruth.substack.com/p/how-sherman-vanished-into-georgia",
+  "minutes": 6,
+  "tags": [
+   "history",
+   "strategy",
+   "leadership",
+   "storytelling"
+  ],
+  "ideas": [
+   "Sherman cut his own telegraph line and left his supply chain behind, marching about 62,000 men toward the sea while Washington, Lincoln included, got no word from him for weeks.",
+   "Living off the land let the army move in two wings across a band up to 60 miles wide, wrecking Georgia's railroads (rails bent into 'Sherman's neckties') over nearly 300 miles.",
+   "He reached Savannah on December 21 and wired Lincoln the city as a Christmas gift; the same issue also tells NBC's first network broadcast in 1926 and the murders behind In Cold Blood."
+  ],
+  "q": "Where are you still keeping a 'supply line' open (a safe client, a fallback plan) that is slowing the bold march you actually want to make?",
+  "score": 7,
+  "added": "2026-11-16",
+  "id": "4b8659b1",
   "cat": "Newsletters",
   "hero": false
  }

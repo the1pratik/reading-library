@@ -2744,7 +2744,7 @@
   "featured": true,
   "id": "8949c491",
   "cat": "Stories",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -3478,6 +3478,127 @@
   "score": 7,
   "added": "2026-11-16",
   "id": "4b8659b1",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "I spoke to seven physics experts grappling with the AI revolution",
+  "author": "Dan Kagan-Kans (Understanding AI)",
+  "url": "https://www.understandingai.org/p/i-spoke-to-seven-physics-experts",
+  "minutes": 17,
+  "tags": [
+   "ai",
+   "science",
+   "future of work",
+   "research"
+  ],
+  "featured": true,
+  "ideas": [
+   "Physicist Suvrat Raju built a benchmark from unpublished 'private gem' problems that take top physicists about a day, so models could not have memorised the answers.",
+   "Leading models solved about 60% in September; by the end GPT-6 Astra got 49 of 50 right and even found subtle errors in the human-written solutions.",
+   "The open question for theorists is no longer whether AI can do the calculations but what is left for humans once it can."
+  ],
+  "q": "If an agent can already do the 'day of work' parts of your craft, which part of your job is the taste and question-picking that only you can do?",
+  "score": 9,
+  "added": "2026-11-18",
+  "id": "75c9a901",
+  "cat": "Newsletters",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "Why inference is harder than you think",
+  "author": "Mario Gabriele (The Generalist)",
+  "url": "https://www.generalist.com/p/why-inference-is-harder-than-you",
+  "minutes": 45,
+  "tags": [
+   "ai",
+   "startups",
+   "infrastructure",
+   "founders"
+  ],
+  "ideas": [
+   "Baseten CEO Tuhin Srivastava calls inference AI's 'final market' and estimates about $2 trillion of inference spend by 2030.",
+   "Baseten's breakout came when it dropped three years of other product work in about six weeks to focus on an inference engine it had been giving away.",
+   "Even sharp insiders miss exponentials: Baseten's January 2025 forecast was off by 4x, and he credits luck for about 90% of startup success while calling the 10% skill indispensable."
+  ],
+  "q": "What are you currently giving away for free that customers keep pulling on, and should it become the whole business?",
+  "score": 8,
+  "added": "2026-11-18",
+  "id": "0f537812",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "The Boring Company & the Future Underground",
+  "author": "David George (a16z)",
+  "url": "https://www.a16z.news/p/the-boring-company-and-the-future",
+  "minutes": 40,
+  "tags": [
+   "elon musk",
+   "infrastructure",
+   "cost curves",
+   "vc"
+  ],
+  "ideas": [
+   "CEO Steve Davis says the hard part of Hyperloop isn't the vehicle but tunnelling, because high speed needs straight paths dug through obstacles for thousands of miles.",
+   "The playbook is Musk's usual cost curve: make it work, then optimise (Roadster $98K to Model 3 $36,990; Falcon 9 cutting launch cost per kg from about $18,500 to $2,700).",
+   "It starts where cities already pay hundreds of millions or billions for transit lines, with the Vegas Loop as the first product."
+  ],
+  "q": "Which expensive step in your studio's pipeline is the 'tunnelling' that, if made 10x cheaper, unlocks everything else?",
+  "score": 8,
+  "added": "2026-11-18",
+  "id": "e465de17",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "The Dream of the 1990s Is Alive Again in Cybersecurity",
+  "author": "Zane Lackey (a16z)",
+  "url": "https://www.a16z.news/p/the-dream-of-the-1990s-is-alive-again",
+  "minutes": 9,
+  "tags": [
+   "security",
+   "ai",
+   "history",
+   "vc"
+  ],
+  "ideas": [
+   "In 1998 L0pht told the Senate it could take down the internet in 30 minutes; in 2002 alone Apache, OpenSSH, OpenSSL and BIND all had serious remote bugs.",
+   "AI models have changed the economics of offence, making expert vulnerability work far faster and cheaper, so emergency-level bugs now feel weekly again.",
+   "Teams must now worry about both zero-days and the old '550-days' (long-unpatched bugs), but the 1990s offer a playbook for getting through it."
+  ],
+  "q": "With 17 bots holding your tokens and logins, what is your own '550-day' risk you keep postponing?",
+  "score": 7,
+  "added": "2026-11-18",
+  "id": "15fcb0b4",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Why Thinking More Can Make an LLM Dumb",
+  "author": "ByteByteGo",
+  "url": "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
+  "minutes": 12,
+  "tags": [
+   "ai",
+   "llms",
+   "engineering",
+   "explainer"
+  ],
+  "ideas": [
+   "A reasoning model builds on every token it has already written, so extra thinking can either catch a mistake or lock in a wrong interpretation.",
+   "Like second-guessing an easy exam question, more steps on a simple problem can flip a right answer into a wrong one.",
+   "The piece walks through how models are taught to use extra steps and how to tell when a model has already thought enough."
+  ],
+  "q": "Where are your bots over-thinking simple jobs and burning tokens, when a short answer would be more correct?",
+  "score": 7,
+  "added": "2026-11-18",
+  "id": "a010b42c",
   "cat": "Newsletters",
   "hero": false
  }

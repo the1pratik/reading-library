@@ -3431,7 +3431,7 @@
   "added": "2026-11-16",
   "id": "95cef59f",
   "cat": "Newsletters",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -3720,6 +3720,126 @@
   "added": "2026-11-20",
   "id": "12a1550e",
   "cat": "Stories",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "n8n Went From $270M to $5.2B in 14 Months. Its Founder Wrote His First Pitch Deck at Series B",
+  "author": "Ruben Dominguez (The AI Corner)",
+  "url": "https://www.the-ai-corner.com/p/n8n-jan-oberhauser-5-2b-lessons-slush-2026",
+  "minutes": 14,
+  "tags": [
+   "founders",
+   "ai",
+   "startups",
+   "fundraising"
+  ],
+  "ideas": [
+   "n8n raised its seed from Sequoia with no deck and only made its first pitch deck for the Series B at $270M; 14 months later SAP bought in at $5.2B.",
+   "Jan Oberhauser's recipe is AI plus fixed logic plus a human checkpoint: a nice AI demo and a dependable process are two different products, and n8n sells the second.",
+   "About 430 people run a profitable $100M+ ARR company, and he still blocks every Friday to use AI tools and watch the market himself."
+  ],
+  "q": "Which of your AI-film or Tenbo workflows is still a demo, and what logic and human checkpoint would turn it into something a client can trust?",
+  "score": 8,
+  "featured": true,
+  "added": "2026-11-23",
+  "id": "cd2d61ae",
+  "cat": "Newsletters",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "Model Behavior: Azeem Azhar has a team of AI agents. He starts nearly every piece by hand anyway",
+  "author": "Substack (interview with Azeem Azhar)",
+  "url": "https://on.substack.com/p/model-behavior-azeem-azhar-has-a",
+  "minutes": 30,
+  "tags": [
+   "ai",
+   "writing",
+   "workflows",
+   "media"
+  ],
+  "ideas": [
+   "Exponential View, a team of about 10, spends roughly $10,000 a month on AI, about 75% on tokens and 25% on subscriptions.",
+   "AI tools have a short half-life: their prompt library and chart-watermark tool died once models got good enough to do it from one line.",
+   "Azeem starts every piece with a fountain pen or a voice note because models 'second-guess your thinking if you get to them too quickly'; their Prism system indexes everything the team reads so they stay consistent week to week."
+  ],
+  "q": "Where are your bots doing your first thinking for you, and what would you lose if you wrote the first draft by hand?",
+  "score": 8,
+  "added": "2026-11-23",
+  "id": "5577799f",
+  "cat": "Stories",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Sam Altman on the GPT-4 Compute Bet: 10 Lessons for Builders",
+  "author": "Ruben Dominguez (The AI Corner)",
+  "url": "https://www.the-ai-corner.com/p/sam-altman-interview-lessons-scaling",
+  "minutes": 12,
+  "tags": [
+   "founders",
+   "ai",
+   "strategy",
+   "decision-making"
+  ],
+  "ideas": [
+   "Altman's one big insight is the surprising returns to scale, which he saw in startups and Y Combinator before neural networks, and bet on years before the scaling laws.",
+   "Power thins out honest feedback, so he rewards people who push back, and tests every contrarian bet on smart non-experts before committing.",
+   "ChatGPT launched even though an internal prototype kept only about 5% of users, a number that would end most launches."
+  ],
+  "q": "What curve have you seen work at small scale in your own business that you haven't yet had the nerve to scale up?",
+  "score": 7,
+  "added": "2026-11-23",
+  "id": "07f41bf0",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Charts of the Week: There is No Gen Z",
+  "author": "Moses Sternstein (a16z)",
+  "url": "https://www.a16z.news/p/charts-of-the-week-there-is-no-gen",
+  "minutes": 10,
+  "tags": [
+   "culture",
+   "media",
+   "social",
+   "distribution"
+  ],
+  "ideas": [
+   "A survey argues there may be no single Gen Z, but many Zoomer tribes defined by their online information mix rather than country or politics.",
+   "Zoomers get content from YouTube, Instagram and TikTok while Boomers lean on Facebook.",
+   "Pew data shows TikTok as a news source rose from about 20% of users in 2020 to more than half by 2026."
+  ],
+  "q": "Which online tribe is @thealmanac.hq actually for, and does every reel speak its language?",
+  "score": 7,
+  "added": "2026-11-23",
+  "id": "3862678c",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Levent Alp\u00f6ge has solved the Riemann Hypothesis with the help of Claude! What does it mean?",
+  "author": "Gary Marcus (Marcus on AI)",
+  "url": "https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann",
+  "minutes": 3,
+  "tags": [
+   "ai",
+   "math",
+   "skepticism"
+  ],
+  "ideas": [
+   "AI did not solve it alone: mathematician Levent Alp\u00f6ge guided a collaboration with Claude over months.",
+   "The proof runs about 250,000 pages and leaned on Lean and mathlib, over two million lines of formalized math built by many people over years.",
+   "Marcus argues formal verification is easy in math but hard in biology, business or robotics, so the win may not transfer, and it does not mean AGI has arrived."
+  ],
+  "q": "In your own work, where could you make output verifiable the way Lean makes math verifiable?",
+  "score": 7,
+  "added": "2026-11-23",
+  "id": "f15f14f8",
+  "cat": "Newsletters",
   "hero": false
  }
 ]

@@ -3165,7 +3165,7 @@
   "added": "2026-11-09",
   "id": "e19758b3",
   "cat": "Newsletters",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -3839,6 +3839,127 @@
   "score": 7,
   "added": "2026-11-23",
   "id": "f15f14f8",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "The FDE Math: How AI Startups Turn Forward Deployed Engineers Into Product Margin",
+  "author": "The AI Corner",
+  "url": "https://www.the-ai-corner.com/p/forward-deployed-engineer-math-ai-startups",
+  "minutes": 4,
+  "tags": [
+   "ai",
+   "services",
+   "business-model",
+   "strategy"
+  ],
+  "featured": true,
+  "ideas": [
+   "In 2026 Microsoft, AWS, OpenAI and Anthropic put more than $7.6B behind engineers who work inside customer companies; US FDE job postings went from under 200 in 2023 to over 7,300 in the first nine months of 2026.",
+   "Custom AI tools built with outside partners reached deployment about 67% of the time versus 33% for internal builds, which is the whole case for someone sitting in the client's room.",
+   "The same FDE spend is a moat if field work feeds a reusable product and a consulting firm if it doesn't: 39% of AI builders use FDEs only for onboarding or to cover missing features, so their delivery cost grows with every new client."
+  ],
+  "q": "How much of last month's Thriving or Tenbo client work turned into something reusable for the next client, and does your pricing map to an outcome?",
+  "score": 9,
+  "added": "2026-11-25",
+  "id": "622fefc6",
+  "cat": "Newsletters",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "The five most important debates in AI right now",
+  "author": "Timothy B. Lee and Derek Thompson (Understanding AI)",
+  "url": "https://www.understandingai.org/p/the-five-most-important-debates-in",
+  "minutes": 9,
+  "tags": [
+   "ai",
+   "policy",
+   "economics",
+   "debate"
+  ],
+  "ideas": [
+   "A pro/con playbook for the five big AI arguments: chips to China, recursive self-improvement in 2027, the bubble, a cyber-pocalypse, and job losses.",
+   "The Jensen Huang saga is framed as a policy fight underneath the scandal: is selling advanced chips to China like selling fighter jets to a rival?",
+   "The recursive self-improvement case starts with humility: outsiders can't see the best models because labs use them internally to build the next ones."
+  ],
+  "q": "Which side of each of these five debates would you take on camera, and which one would make the strongest Almanac reel?",
+  "score": 8,
+  "added": "2026-11-25",
+  "id": "2006722c",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Hugging Face Turned Down Nvidia's $500M, Then Sold Nvidia the Company for $12.93B",
+  "author": "The AI Corner",
+  "url": "https://www.the-ai-corner.com/p/hugging-face-founders-nvidia-deal",
+  "minutes": 12,
+  "tags": [
+   "founders",
+   "ai",
+   "m&a",
+   "open-source"
+  ],
+  "ideas": [
+   "Hugging Face started in 2016 as a chatbot app for teenagers, built by three founders who met in an online Stanford course and had no AI credentials.",
+   "In late 2025 it refused $500M from Nvidia at a $7B valuation because it didn't want a dominant investor; nine months later it agreed to sell to Nvidia for $12.93B.",
+   "What changed: a July breach where OpenAI's test models broke into HF's systems, Jensen's open-weights letter, and revenue running from about $100M to over $150M a year; AMD and Salesforce also held talks."
+  ],
+  "q": "What would have to change in nine months for you to say yes to a deal you'd refuse today?",
+  "score": 8,
+  "added": "2026-11-25",
+  "id": "a3a9702b",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Inside Exa, the $2.2B company that's grown 10x for 3 years straight to power search for AI agents",
+  "author": "a16z Jobs",
+  "url": "https://a16zjobs.substack.com/p/inside-exa-the-22b-company-thats",
+  "minutes": 9,
+  "tags": [
+   "startups",
+   "ai",
+   "agents",
+   "search"
+  ],
+  "ideas": [
+   "Exa launched two weeks before ChatGPT and pivoted to being the search engine for AI agents; it now handles 2 billion requests a month from over 400k developers and powers Cursor and Cognition.",
+   "Agents search differently: one long query with 5 to 10 attributes, no blue links, no ads, answers fast and cheap in as few tokens as possible.",
+   "Exa spent half of its first two rounds on its own GPU cluster to train embeddings, and the team is now 240 people after a $250M Series C at $2.2B."
+  ],
+  "q": "If agents become the main searchers, what does Thriving's website need to say for an agent to pick it?",
+  "score": 7,
+  "added": "2026-11-25",
+  "id": "1f0ea298",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Welcome to the B2A Economy: How Agents Buy",
+  "author": "a16z",
+  "url": "https://www.a16z.news/p/welcome-to-the-b2a-economy-how-agents",
+  "minutes": 11,
+  "tags": [
+   "ai",
+   "agents",
+   "distribution",
+   "commerce"
+  ],
+  "ideas": [
+   "a16z and The Prompting Company ran 1,270 prompts and 11,307 agent runs across Grok Bot, Muse, Instinct and Dots to see how agents choose products.",
+   "Agents converge on default picks: a product chosen by one agent had a 73% chance of being chosen by another, and in nearly a quarter of cases all four picked the same one.",
+   "Shortlists are tiny (Muse looks at about three product pages when it browses) and picks lean on price and reviews, so the way in is proving you're best for a narrow use case or persona."
+  ],
+  "q": "For which narrow use case could Thriving be the obvious default pick when an agent is asked to find an AI video studio?",
+  "score": 7,
+  "added": "2026-11-25",
+  "id": "c7e6b37b",
   "cat": "Newsletters",
   "hero": false
  }

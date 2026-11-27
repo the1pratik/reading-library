@@ -3334,7 +3334,7 @@
   "added": "2026-11-13",
   "id": "3a280c66",
   "cat": "Newsletters",
-  "hero": true
+  "hero": false
  },
  {
   "source": "Newsletter",
@@ -3960,6 +3960,126 @@
   "score": 7,
   "added": "2026-11-25",
   "id": "c7e6b37b",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Boat: $0 to a $3.3M Run Rate Renting Computers to AI Agents",
+  "author": "The AI Corner (Ruben Dominguez)",
+  "url": "https://www.the-ai-corner.com/p/boat-playbook-ai-agent-computers-3-3m-run-rate",
+  "minutes": 24,
+  "tags": [
+   "ai",
+   "agents",
+   "startups",
+   "distribution"
+  ],
+  "featured": true,
+  "ideas": [
+   "Boat sat at $0 for 16 months through five pivots; the breakout came when about 25 users asked to rent the infrastructure every failed product ran on, and the team shipped it raw.",
+   "It rents agents full Linux machines by the second: a 4 vCPU, 8 GB box is about $26 a month nonstop versus $242 on E2B or Daytona and $347 on Modal at list price.",
+   "Four people, 2,900 paying customers and a $3.3M run rate, with zero ads and zero salespeople: the only channel is one founder X account with five recurring post formats (founder-reported; the author's fund is an investor)."
+  ],
+  "q": "Which piece of infrastructure inside Thriving or Tenbo do clients keep asking about that could be sold on its own?",
+  "score": 8,
+  "added": "2026-11-27",
+  "id": "d355072e",
+  "cat": "Newsletters",
+  "hero": true
+ },
+ {
+  "source": "Newsletter",
+  "title": "Why We Invested in Roma, the To-Do List for Your AI Agents",
+  "author": "The AI Corner (Ruben Dominguez)",
+  "url": "https://www.the-ai-corner.com/p/why-we-invested-in-roma-yc-f26-ai-agents-todo-list",
+  "minutes": 10,
+  "tags": [
+   "ai",
+   "agents",
+   "productivity",
+   "startups"
+  ],
+  "ideas": [
+   "Roma turns every request into a task on one list, and a task can belong to you, a teammate or an agent such as Claude, ChatGPT or Grok Bot, with every handoff logged.",
+   "Roma 2.0 (Nov 11) made the list multiplayer so your agent and someone else's can work the same task; the launch post hit 1.6M views on X.",
+   "CEO Jan Senderek sold his first YC company, the photo app Loom, to Dropbox in 2014; the investors are betting on second-time founders (and disclose their stake)."
+  ],
+  "q": "Would one shared task list fix the work getting scattered across your 17 bots, or just add another place to check?",
+  "score": 7,
+  "added": "2026-11-27",
+  "id": "44d764ec",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "A Digital Rupee By Force",
+  "author": "The Core (Dev Chandrasekhar)",
+  "url": "https://www.thecoredaily.in/p/a-digital-rupee-by-force",
+  "minutes": 9,
+  "tags": [
+   "india",
+   "fintech",
+   "policy",
+   "money"
+  ],
+  "ideas": [
+   "Four years into its pilot, the e-rupee lost ground to UPI: the amount in circulation fell sharply in 2025-26, per the RBI's annual report.",
+   "Maharashtra will pay tribal welfare grants of up to Rs 50,000 in e-rupees from April 2027, spendable only at registered vendors and never convertible to cash.",
+   "Critics say welfare goes first because programmable money lets the state decide what a rupee can buy and record every purchase, and aid recipients are the easiest to try it on."
+  ],
+  "q": "Who really controls money that can only be spent where the state allows? Is that an Almanac episode?",
+  "score": 7,
+  "added": "2026-11-27",
+  "id": "7cf1f463",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "Can Adani, NTPC Sustain The Thermal Boom?",
+  "author": "The Core (Amritha Pillay)",
+  "url": "https://www.thecoredaily.in/p/can-adani-ntpc-sustain-the-thermal-boom",
+  "minutes": 7,
+  "tags": [
+   "india",
+   "energy",
+   "business",
+   "ai infrastructure"
+  ],
+  "ideas": [
+   "El Ni\u00f1o heat and industrial demand pushed merchant power tariffs to Rs 7.7 a unit in Q2 FY27, after staying under Rs 4 for most of 2024 and 2025.",
+   "The growth is concentrated in peak hours when solar falls short, which makes firm coal power valuable again; data centres are expected to add demand.",
+   "The risk is everyone adding capacity at once and causing a supply glut, with coal, transmission, equipment and broke distribution companies as the bottlenecks."
+  ],
+  "q": "If AI data centres keep coal plants running, who pays for the AI boom in India?",
+  "score": 6,
+  "added": "2026-11-27",
+  "id": "50ec0968",
+  "cat": "Newsletters",
+  "hero": false
+ },
+ {
+  "source": "Newsletter",
+  "title": "How George Washington Spent Thanksgiving 1789",
+  "author": "This Day In History",
+  "url": "https://historytruth.substack.com/p/how-george-washington-spent-thanksgiving",
+  "minutes": 4,
+  "tags": [
+   "history",
+   "leadership",
+   "rituals"
+  ],
+  "ideas": [
+   "The first Thanksgiving under the Constitution was disputed: congressmen called it a European habit and none of Congress's business, and it passed anyway.",
+   "Washington walked to church in a storm and then quietly paid for food and beer for the men in debtors' jail, who thanked him in the newspaper.",
+   "The custom did not stick: Jefferson refused to proclaim one, and only Lincoln made it a yearly holiday during the Civil War."
+  ],
+  "q": "What shared ritual could hold a young team, or a young audience, together?",
+  "score": 6,
+  "added": "2026-11-27",
+  "id": "35b6ae0b",
   "cat": "Newsletters",
   "hero": false
  }
